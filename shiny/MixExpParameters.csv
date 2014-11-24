@@ -1,0 +1,1093 @@
+Index,Name,Coverage,Table,Distribution,Mean,Weight
+1,PremOps A - 1,PremOps,A - 1,1,955,0.47571
+1,PremOps A - 1,PremOps,A - 1,2,4604,0.310642
+1,PremOps A - 1,PremOps,A - 1,3,15014,0.138044
+1,PremOps A - 1,PremOps,A - 1,4,57612,0.064692
+1,PremOps A - 1,PremOps,A - 1,5,210069,0.007535
+1,PremOps A - 1,PremOps,A - 1,6,551761,0.002412
+1,PremOps A - 1,PremOps,A - 1,7,1330472,0.000677
+1,PremOps A - 1,PremOps,A - 1,8,3156845,0.000202
+1,PremOps A - 1,PremOps,A - 1,9,7591303,0.000062
+1,PremOps A - 1,PremOps,A - 1,10,20735816,0.00002
+1,PremOps A - 1,PremOps,A - 1,11,95420839,0.000004
+1,PremOps A - 1,PremOps,A - 1,12,100000000,0
+2,PremOps A - 2,PremOps,A - 2,1,1145,0.435406
+2,PremOps A - 2,PremOps,A - 2,2,4821,0.313825
+2,PremOps A - 2,PremOps,A - 2,3,14274,0.12828
+2,PremOps A - 2,PremOps,A - 2,4,43731,0.085386
+2,PremOps A - 2,PremOps,A - 2,5,157702,0.028069
+2,PremOps A - 2,PremOps,A - 2,6,677379,0.007578
+2,PremOps A - 2,PremOps,A - 2,7,2318974,0.001135
+2,PremOps A - 2,PremOps,A - 2,8,6780287,0.000242
+2,PremOps A - 2,PremOps,A - 2,9,20103978,0.000065
+2,PremOps A - 2,PremOps,A - 2,10,96205044,0.000014
+2,PremOps A - 2,PremOps,A - 2,11,100000000,0
+2,PremOps A - 2,PremOps,A - 2,12,100000000,0
+3,PremOps A - 3,PremOps,A - 3,1,2865,0.60655
+3,PremOps A - 3,PremOps,A - 3,2,15972,0.260547
+3,PremOps A - 3,PremOps,A - 3,3,86175,0.096218
+3,PremOps A - 3,PremOps,A - 3,4,463211,0.030214
+3,PremOps A - 3,PremOps,A - 3,5,1531515,0.004984
+3,PremOps A - 3,PremOps,A - 3,6,4352668,0.001088
+3,PremOps A - 3,PremOps,A - 3,7,10571321,0.000259
+3,PremOps A - 3,PremOps,A - 3,8,23767530,0.000107
+3,PremOps A - 3,PremOps,A - 3,9,100000000,0.000033
+3,PremOps A - 3,PremOps,A - 3,10,100000000,0
+3,PremOps A - 3,PremOps,A - 3,11,100000000,0
+3,PremOps A - 3,PremOps,A - 3,12,100000000,0
+4,PremOps B - 1,PremOps,B - 1,1,1063,0.422289
+4,PremOps B - 1,PremOps,B - 1,2,4257,0.319976
+4,PremOps B - 1,PremOps,B - 1,3,13837,0.154563
+4,PremOps B - 1,PremOps,B - 1,4,53474,0.074731
+4,PremOps B - 1,PremOps,B - 1,5,148682,0.020583
+4,PremOps B - 1,PremOps,B - 1,6,489248,0.006307
+4,PremOps B - 1,PremOps,B - 1,7,1484406,0.00115
+4,PremOps B - 1,PremOps,B - 1,8,3651435,0.000276
+4,PremOps B - 1,PremOps,B - 1,9,8436387,0.000088
+4,PremOps B - 1,PremOps,B - 1,10,22129718,0.00003
+4,PremOps B - 1,PremOps,B - 1,11,100000000,0.000007
+4,PremOps B - 1,PremOps,B - 1,12,100000000,0
+5,PremOps B - 2,PremOps,B - 2,1,1448,0.348101
+5,PremOps B - 2,PremOps,B - 2,2,5015,0.326632
+5,PremOps B - 2,PremOps,B - 2,3,15590,0.169985
+5,PremOps B - 2,PremOps,B - 2,4,53140,0.092772
+5,PremOps B - 2,PremOps,B - 2,5,157042,0.04316
+5,PremOps B - 2,PremOps,B - 2,6,611673,0.01669
+5,PremOps B - 2,PremOps,B - 2,7,2197334,0.002081
+5,PremOps B - 2,PremOps,B - 2,8,6438115,0.000438
+5,PremOps B - 2,PremOps,B - 2,9,19207242,0.000116
+5,PremOps B - 2,PremOps,B - 2,10,92314754,0.000025
+5,PremOps B - 2,PremOps,B - 2,11,100000000,0
+5,PremOps B - 2,PremOps,B - 2,12,100000000,0
+6,PremOps B - 3,PremOps,B - 3,1,2859,0.460421
+6,PremOps B - 3,PremOps,B - 3,2,6391,0.136539
+6,PremOps B - 3,PremOps,B - 3,3,19873,0.235818
+6,PremOps B - 3,PremOps,B - 3,4,92098,0.114705
+6,PremOps B - 3,PremOps,B - 3,5,564615,0.045315
+6,PremOps B - 3,PremOps,B - 3,6,2126895,0.00576
+6,PremOps B - 3,PremOps,B - 3,7,6599517,0.001102
+6,PremOps B - 3,PremOps,B - 3,8,19936910,0.00028
+6,PremOps B - 3,PremOps,B - 3,9,95800198,0.00006
+6,PremOps B - 3,PremOps,B - 3,10,100000000,0
+6,PremOps B - 3,PremOps,B - 3,11,100000000,0
+6,PremOps B - 3,PremOps,B - 3,12,100000000,0
+7,PremOps C - 1,PremOps,C - 1,1,1182,0.437469
+7,PremOps C - 1,PremOps,C - 1,2,6019,0.353032
+7,PremOps C - 1,PremOps,C - 1,3,26028,0.140782
+7,PremOps C - 1,PremOps,C - 1,4,105489,0.052873
+7,PremOps C - 1,PremOps,C - 1,5,334773,0.012
+7,PremOps C - 1,PremOps,C - 1,6,859330,0.002972
+7,PremOps C - 1,PremOps,C - 1,7,2365352,0.000623
+7,PremOps C - 1,PremOps,C - 1,8,5399507,0.000156
+7,PremOps C - 1,PremOps,C - 1,9,10194583,0.000055
+7,PremOps C - 1,PremOps,C - 1,10,22831814,0.00003
+7,PremOps C - 1,PremOps,C - 1,11,100000000,0.000008
+7,PremOps C - 1,PremOps,C - 1,12,100000000,0
+8,PremOps C - 2,PremOps,C - 2,1,1143,0.410754
+8,PremOps C - 2,PremOps,C - 2,2,4511,0.108293
+8,PremOps C - 2,PremOps,C - 2,3,7394,0.187749
+8,PremOps C - 2,PremOps,C - 2,4,24046,0.15484
+8,PremOps C - 2,PremOps,C - 2,5,67598,0.070215
+8,PremOps C - 2,PremOps,C - 2,6,185614,0.039986
+8,PremOps C - 2,PremOps,C - 2,7,577793,0.021726
+8,PremOps C - 2,PremOps,C - 2,8,1247762,0.004127
+8,PremOps C - 2,PremOps,C - 2,9,2931508,0.001696
+8,PremOps C - 2,PremOps,C - 2,10,7544038,0.000447
+8,PremOps C - 2,PremOps,C - 2,11,21034335,0.000136
+8,PremOps C - 2,PremOps,C - 2,12,98133068,0.000031
+9,PremOps C - 3,PremOps,C - 3,1,2888,0.426979
+9,PremOps C - 3,PremOps,C - 3,2,10295,0.275155
+9,PremOps C - 3,PremOps,C - 3,3,56443,0.177132
+9,PremOps C - 3,PremOps,C - 3,4,272967,0.0741
+9,PremOps C - 3,PremOps,C - 3,5,766093,0.035759
+9,PremOps C - 3,PremOps,C - 3,6,2195176,0.008284
+9,PremOps C - 3,PremOps,C - 3,7,6020464,0.001922
+9,PremOps C - 3,PremOps,C - 3,8,16234264,0.000486
+9,PremOps C - 3,PremOps,C - 3,9,31860120,0.000098
+9,PremOps C - 3,PremOps,C - 3,10,100000000,0.000085
+9,PremOps C - 3,PremOps,C - 3,11,100000000,0
+9,PremOps C - 3,PremOps,C - 3,12,100000000,0
+10,PremOps CA - 1,PremOps,CA - 1,1,922,0.293541
+10,PremOps CA - 1,PremOps,CA - 1,2,5331,0.437154
+10,PremOps CA - 1,PremOps,CA - 1,3,18810,0.159982
+10,PremOps CA - 1,PremOps,CA - 1,4,59129,0.050856
+10,PremOps CA - 1,PremOps,CA - 1,5,143325,0.046532
+10,PremOps CA - 1,PremOps,CA - 1,6,634601,0.010323
+10,PremOps CA - 1,PremOps,CA - 1,7,2239695,0.001273
+10,PremOps CA - 1,PremOps,CA - 1,8,6552152,0.000259
+10,PremOps CA - 1,PremOps,CA - 1,9,19361008,0.000066
+10,PremOps CA - 1,PremOps,CA - 1,10,91267229,0.000014
+10,PremOps CA - 1,PremOps,CA - 1,11,100000000,0
+10,PremOps CA - 1,PremOps,CA - 1,12,100000000,0
+11,PremOps CA - 2,PremOps,CA - 2,1,1825,0.358078
+11,PremOps CA - 2,PremOps,CA - 2,2,8236,0.354329
+11,PremOps CA - 2,PremOps,CA - 2,3,40543,0.162183
+11,PremOps CA - 2,PremOps,CA - 2,4,124903,0.080049
+11,PremOps CA - 2,PremOps,CA - 2,5,536516,0.041214
+11,PremOps CA - 2,PremOps,CA - 2,6,2437172,0.003394
+11,PremOps CA - 2,PremOps,CA - 2,7,7769701,0.00057
+11,PremOps CA - 2,PremOps,CA - 2,8,22209889,0.000147
+11,PremOps CA - 2,PremOps,CA - 2,9,100000000,0.000036
+11,PremOps CA - 2,PremOps,CA - 2,10,100000000,0
+11,PremOps CA - 2,PremOps,CA - 2,11,100000000,0
+11,PremOps CA - 2,PremOps,CA - 2,12,100000000,0
+12,PremOps CA - 3,PremOps,CA - 3,1,2974,0.449172
+12,PremOps CA - 3,PremOps,CA - 3,2,12863,0.276096
+12,PremOps CA - 3,PremOps,CA - 3,3,66890,0.185852
+12,PremOps CA - 3,PremOps,CA - 3,4,435503,0.068864
+12,PremOps CA - 3,PremOps,CA - 3,5,1465289,0.016259
+12,PremOps CA - 3,PremOps,CA - 3,6,4512604,0.002837
+12,PremOps CA - 3,PremOps,CA - 3,7,11697838,0.000618
+12,PremOps CA - 3,PremOps,CA - 3,8,25497108,0.000221
+12,PremOps CA - 3,PremOps,CA - 3,9,100000000,0.000081
+12,PremOps CA - 3,PremOps,CA - 3,10,100000000,0
+12,PremOps CA - 3,PremOps,CA - 3,11,100000000,0
+12,PremOps CA - 3,PremOps,CA - 3,12,100000000,0
+13,PremOps FL - 1,PremOps,FL - 1,1,997,0.356537
+13,PremOps FL - 1,PremOps,FL - 1,2,4599,0.242399
+13,PremOps FL - 1,PremOps,FL - 1,3,23541,0.17491
+13,PremOps FL - 1,PremOps,FL - 1,4,85527,0.121028
+13,PremOps FL - 1,PremOps,FL - 1,5,13924,0.086384
+13,PremOps FL - 1,PremOps,FL - 1,6,270010,0.011746
+13,PremOps FL - 1,PremOps,FL - 1,7,541880,0.004711
+13,PremOps FL - 1,PremOps,FL - 1,8,1317428,0.001683
+13,PremOps FL - 1,PremOps,FL - 1,9,3336249,0.000424
+13,PremOps FL - 1,PremOps,FL - 1,10,7999819,0.000128
+13,PremOps FL - 1,PremOps,FL - 1,11,21611060,0.000041
+13,PremOps FL - 1,PremOps,FL - 1,12,98838375,0.000009
+14,PremOps FL - 2,PremOps,FL - 2,1,1780,0.393281
+14,PremOps FL - 2,PremOps,FL - 2,2,10735,0.317629
+14,PremOps FL - 2,PremOps,FL - 2,3,44885,0.194399
+14,PremOps FL - 2,PremOps,FL - 2,4,171544,0.071117
+14,PremOps FL - 2,PremOps,FL - 2,5,646979,0.017864
+14,PremOps FL - 2,PremOps,FL - 2,6,1713328,0.004201
+14,PremOps FL - 2,PremOps,FL - 2,7,4468007,0.001051
+14,PremOps FL - 2,PremOps,FL - 2,8,9981224,0.000288
+14,PremOps FL - 2,PremOps,FL - 2,9,22863606,0.000133
+14,PremOps FL - 2,PremOps,FL - 2,10,100000000,0.000037
+14,PremOps FL - 2,PremOps,FL - 2,11,100000000,0
+14,PremOps FL - 2,PremOps,FL - 2,12,100000000,0
+15,PremOps FL - 3,PremOps,FL - 3,1,1815,0.31147
+15,PremOps FL - 3,PremOps,FL - 3,2,6057,0.223129
+15,PremOps FL - 3,PremOps,FL - 3,3,23505,0.256939
+15,PremOps FL - 3,PremOps,FL - 3,4,99679,0.148289
+15,PremOps FL - 3,PremOps,FL - 3,5,591787,0.051024
+15,PremOps FL - 3,PremOps,FL - 3,6,2018715,0.007026
+15,PremOps FL - 3,PremOps,FL - 3,7,5818790,0.001606
+15,PremOps FL - 3,PremOps,FL - 3,8,17104550,0.000413
+15,PremOps FL - 3,PremOps,FL - 3,9,45224871,0.00004
+15,PremOps FL - 3,PremOps,FL - 3,10,100000000,0.000064
+15,PremOps FL - 3,PremOps,FL - 3,11,100000000,0
+15,PremOps FL - 3,PremOps,FL - 3,12,100000000,0
+16,PremOps IL - 1,PremOps,IL - 1,1,1126,0.343679
+16,PremOps IL - 1,PremOps,IL - 1,2,5204,0.474305
+16,PremOps IL - 1,PremOps,IL - 1,3,27335,0.125838
+16,PremOps IL - 1,PremOps,IL - 1,4,119190,0.043226
+16,PremOps IL - 1,PremOps,IL - 1,5,428503,0.010843
+16,PremOps IL - 1,PremOps,IL - 1,6,1415129,0.001604
+16,PremOps IL - 1,PremOps,IL - 1,7,3796040,0.000363
+16,PremOps IL - 1,PremOps,IL - 1,8,9064082,0.000098
+16,PremOps IL - 1,PremOps,IL - 1,9,22768838,0.000035
+16,PremOps IL - 1,PremOps,IL - 1,10,100000000,0.000009
+16,PremOps IL - 1,PremOps,IL - 1,11,100000000,0
+16,PremOps IL - 1,PremOps,IL - 1,12,100000000,0
+17,PremOps IL - 2,PremOps,IL - 2,1,1346,0.287226
+17,PremOps IL - 2,PremOps,IL - 2,2,3168,0.273303
+17,PremOps IL - 2,PremOps,IL - 2,3,10725,0.270502
+17,PremOps IL - 2,PremOps,IL - 2,4,50508,0.095871
+17,PremOps IL - 2,PremOps,IL - 2,5,174972,0.053246
+17,PremOps IL - 2,PremOps,IL - 2,6,672155,0.014587
+17,PremOps IL - 2,PremOps,IL - 2,7,1516034,0.003242
+17,PremOps IL - 2,PremOps,IL - 2,8,3180921,0.00135
+17,PremOps IL - 2,PremOps,IL - 2,9,7428843,0.000482
+17,PremOps IL - 2,PremOps,IL - 2,10,20399531,0.000156
+17,PremOps IL - 2,PremOps,IL - 2,11,95287973,0.000035
+17,PremOps IL - 2,PremOps,IL - 2,12,100000000,0
+18,PremOps IL - 3,PremOps,IL - 3,1,2563,0.408548
+18,PremOps IL - 3,PremOps,IL - 3,2,12422,0.334322
+18,PremOps IL - 3,PremOps,IL - 3,3,88215,0.161303
+18,PremOps IL - 3,PremOps,IL - 3,4,548698,0.081419
+18,PremOps IL - 3,PremOps,IL - 3,5,1931476,0.011141
+18,PremOps IL - 3,PremOps,IL - 3,6,5487306,0.002456
+18,PremOps IL - 3,PremOps,IL - 3,7,14959426,0.000585
+18,PremOps IL - 3,PremOps,IL - 3,8,30687934,0.000134
+18,PremOps IL - 3,PremOps,IL - 3,9,100000000,0.000092
+18,PremOps IL - 3,PremOps,IL - 3,10,100000000,0
+18,PremOps IL - 3,PremOps,IL - 3,11,100000000,0
+18,PremOps IL - 3,PremOps,IL - 3,12,100000000,0
+19,PremOps IN - 1,PremOps,IN - 1,1,1171,0.485763
+19,PremOps IN - 1,PremOps,IN - 1,2,5397,0.337055
+19,PremOps IN - 1,PremOps,IN - 1,3,23032,0.11356
+19,PremOps IN - 1,PremOps,IN - 1,4,69829,0.034762
+19,PremOps IN - 1,PremOps,IN - 1,5,118636,0.020841
+19,PremOps IN - 1,PremOps,IN - 1,6,389148,0.00642
+19,PremOps IN - 1,PremOps,IN - 1,7,1107912,0.001133
+19,PremOps IN - 1,PremOps,IN - 1,8,2642620,0.000326
+19,PremOps IN - 1,PremOps,IN - 1,9,6195071,0.000094
+19,PremOps IN - 1,PremOps,IN - 1,10,12109122,0.000023
+19,PremOps IN - 1,PremOps,IN - 1,11,23459358,0.000018
+19,PremOps IN - 1,PremOps,IN - 1,12,100000000,0.000005
+20,PremOps IN - 2,PremOps,IN - 2,1,1249,0.415676
+20,PremOps IN - 2,PremOps,IN - 2,2,5401,0.39213
+20,PremOps IN - 2,PremOps,IN - 2,3,29023,0.123675
+20,PremOps IN - 2,PremOps,IN - 2,4,105488,0.052871
+20,PremOps IN - 2,PremOps,IN - 2,5,527466,0.013136
+20,PremOps IN - 2,PremOps,IN - 2,6,1843957,0.001943
+20,PremOps IN - 2,PremOps,IN - 2,7,5056286,0.000403
+20,PremOps IN - 2,PremOps,IN - 2,8,11409522,0.000099
+20,PremOps IN - 2,PremOps,IN - 2,9,23686713,0.000051
+20,PremOps IN - 2,PremOps,IN - 2,10,100000000,0.000016
+20,PremOps IN - 2,PremOps,IN - 2,11,100000000,0
+20,PremOps IN - 2,PremOps,IN - 2,12,100000000,0
+21,PremOps IN - 3,PremOps,IN - 3,1,1715,0.352569
+21,PremOps IN - 3,PremOps,IN - 3,2,5128,0.332119
+21,PremOps IN - 3,PremOps,IN - 3,3,20517,0.187959
+21,PremOps IN - 3,PremOps,IN - 3,4,121213,0.090486
+21,PremOps IN - 3,PremOps,IN - 3,5,624363,0.030882
+21,PremOps IN - 3,PremOps,IN - 3,6,2183630,0.004703
+21,PremOps IN - 3,PremOps,IN - 3,7,6473570,0.000973
+21,PremOps IN - 3,PremOps,IN - 3,8,19354021,0.000254
+21,PremOps IN - 3,PremOps,IN - 3,9,92944109,0.000055
+21,PremOps IN - 3,PremOps,IN - 3,10,100000000,0
+21,PremOps IN - 3,PremOps,IN - 3,11,100000000,0
+21,PremOps IN - 3,PremOps,IN - 3,12,100000000,0
+22,PremOps MA - 1,PremOps,MA - 1,1,892,0.366705
+22,PremOps MA - 1,PremOps,MA - 1,2,4526,0.302723
+22,PremOps MA - 1,PremOps,MA - 1,3,13108,0.154526
+22,PremOps MA - 1,PremOps,MA - 1,4,69963,0.097487
+22,PremOps MA - 1,PremOps,MA - 1,5,27460,0.056683
+22,PremOps MA - 1,PremOps,MA - 1,6,252220,0.016471
+22,PremOps MA - 1,PremOps,MA - 1,7,661122,0.003889
+22,PremOps MA - 1,PremOps,MA - 1,8,1605856,0.001047
+22,PremOps MA - 1,PremOps,MA - 1,9,3679717,0.000316
+22,PremOps MA - 1,PremOps,MA - 1,10,8377750,0.000107
+22,PremOps MA - 1,PremOps,MA - 1,11,22057207,0.000037
+22,PremOps MA - 1,PremOps,MA - 1,12,100000000,0.000009
+23,PremOps MA - 2,PremOps,MA - 2,1,1592,0.387538
+23,PremOps MA - 2,PremOps,MA - 2,2,8085,0.301717
+23,PremOps MA - 2,PremOps,MA - 2,3,28535,0.202485
+23,PremOps MA - 2,PremOps,MA - 2,4,123405,0.081652
+23,PremOps MA - 2,PremOps,MA - 2,5,523876,0.022396
+23,PremOps MA - 2,PremOps,MA - 2,6,1673236,0.003166
+23,PremOps MA - 2,PremOps,MA - 2,7,4460744,0.000736
+23,PremOps MA - 2,PremOps,MA - 2,8,10135510,0.000195
+23,PremOps MA - 2,PremOps,MA - 2,9,23037498,0.000089
+23,PremOps MA - 2,PremOps,MA - 2,10,100000000,0.000026
+23,PremOps MA - 2,PremOps,MA - 2,11,100000000,0
+23,PremOps MA - 2,PremOps,MA - 2,12,100000000,0
+24,PremOps MA - 3,PremOps,MA - 3,1,2037,0.279977
+24,PremOps MA - 3,PremOps,MA - 3,2,4296,0.212758
+24,PremOps MA - 3,PremOps,MA - 3,3,16602,0.280072
+24,PremOps MA - 3,PremOps,MA - 3,4,58241,0.023238
+24,PremOps MA - 3,PremOps,MA - 3,5,117277,0.140026
+24,PremOps MA - 3,PremOps,MA - 3,6,632263,0.053942
+24,PremOps MA - 3,PremOps,MA - 3,7,2272803,0.007887
+24,PremOps MA - 3,PremOps,MA - 3,8,6800557,0.001595
+24,PremOps MA - 3,PremOps,MA - 3,9,20314398,0.000415
+24,PremOps MA - 3,PremOps,MA - 3,10,97181217,0.00009
+24,PremOps MA - 3,PremOps,MA - 3,11,100000000,0
+24,PremOps MA - 3,PremOps,MA - 3,12,100000000,0
+25,PremOps MI - 1,PremOps,MI - 1,1,940,0.453375
+25,PremOps MI - 1,PremOps,MI - 1,2,3888,0.304173
+25,PremOps MI - 1,PremOps,MI - 1,3,13668,0.167253
+25,PremOps MI - 1,PremOps,MI - 1,4,58808,0.065841
+25,PremOps MI - 1,PremOps,MI - 1,5,231509,0.00573
+25,PremOps MI - 1,PremOps,MI - 1,6,543550,0.002543
+25,PremOps MI - 1,PremOps,MI - 1,7,1275801,0.00075
+25,PremOps MI - 1,PremOps,MI - 1,8,2968584,0.000233
+25,PremOps MI - 1,PremOps,MI - 1,9,7143462,0.000074
+25,PremOps MI - 1,PremOps,MI - 1,10,19777007,0.000023
+25,PremOps MI - 1,PremOps,MI - 1,11,91829922,0.000005
+25,PremOps MI - 1,PremOps,MI - 1,12,100000000,0
+26,PremOps MI - 2,PremOps,MI - 2,1,1386,0.453605
+26,PremOps MI - 2,PremOps,MI - 2,2,6505,0.347081
+26,PremOps MI - 2,PremOps,MI - 2,3,27342,0.133466
+26,PremOps MI - 2,PremOps,MI - 2,4,110355,0.051341
+26,PremOps MI - 2,PremOps,MI - 2,5,553724,0.011685
+26,PremOps MI - 2,PremOps,MI - 2,6,1739264,0.00214
+26,PremOps MI - 2,PremOps,MI - 2,7,4674643,0.00048
+26,PremOps MI - 2,PremOps,MI - 2,8,10549089,0.000124
+26,PremOps MI - 2,PremOps,MI - 2,9,23211291,0.00006
+26,PremOps MI - 2,PremOps,MI - 2,10,100000000,0.000018
+26,PremOps MI - 2,PremOps,MI - 2,11,100000000,0
+26,PremOps MI - 2,PremOps,MI - 2,12,100000000,0
+27,PremOps MI - 3,PremOps,MI - 3,1,2840,0.588525
+27,PremOps MI - 3,PremOps,MI - 3,2,15500,0.256859
+27,PremOps MI - 3,PremOps,MI - 3,3,56892,0.06587
+27,PremOps MI - 3,PremOps,MI - 3,4,125826,0.047128
+27,PremOps MI - 3,PremOps,MI - 3,5,484273,0.033074
+27,PremOps MI - 3,PremOps,MI - 3,6,1450022,0.006343
+27,PremOps MI - 3,PremOps,MI - 3,7,3678023,0.001513
+27,PremOps MI - 3,PremOps,MI - 3,8,8480871,0.000473
+27,PremOps MI - 3,PremOps,MI - 3,9,21952036,0.000173
+27,PremOps MI - 3,PremOps,MI - 3,10,100000000,0.000042
+27,PremOps MI - 3,PremOps,MI - 3,11,100000000,0
+27,PremOps MI - 3,PremOps,MI - 3,12,100000000,0
+28,PremOps NJ - 1,PremOps,NJ - 1,1,1026,0.332955
+28,PremOps NJ - 1,PremOps,NJ - 1,2,4202,0.19505
+28,PremOps NJ - 1,PremOps,NJ - 1,3,19934,0.30347
+28,PremOps NJ - 1,PremOps,NJ - 1,4,77449,0.1429
+28,PremOps NJ - 1,PremOps,NJ - 1,5,278785,0.01993
+28,PremOps NJ - 1,PremOps,NJ - 1,6,831519,0.004245
+28,PremOps NJ - 1,PremOps,NJ - 1,7,2103446,0.001004
+28,PremOps NJ - 1,PremOps,NJ - 1,8,4639325,0.000279
+28,PremOps NJ - 1,PremOps,NJ - 1,9,9292292,0.000108
+28,PremOps NJ - 1,PremOps,NJ - 1,10,22501070,0.000047
+28,PremOps NJ - 1,PremOps,NJ - 1,11,100000000,0.000012
+28,PremOps NJ - 1,PremOps,NJ - 1,12,100000000,0
+29,PremOps NJ - 2,PremOps,NJ - 2,1,2096,0.372448
+29,PremOps NJ - 2,PremOps,NJ - 2,2,11483,0.281609
+29,PremOps NJ - 2,PremOps,NJ - 2,3,40821,0.213493
+29,PremOps NJ - 2,PremOps,NJ - 2,4,139998,0.090237
+29,PremOps NJ - 2,PremOps,NJ - 2,5,565886,0.035806
+29,PremOps NJ - 2,PremOps,NJ - 2,6,1833041,0.004884
+29,PremOps NJ - 2,PremOps,NJ - 2,7,5073680,0.001095
+29,PremOps NJ - 2,PremOps,NJ - 2,8,11857677,0.000259
+29,PremOps NJ - 2,PremOps,NJ - 2,9,24210596,0.000126
+29,PremOps NJ - 2,PremOps,NJ - 2,10,100000000,0.000043
+29,PremOps NJ - 2,PremOps,NJ - 2,11,100000000,0
+29,PremOps NJ - 2,PremOps,NJ - 2,12,100000000,0
+30,PremOps NJ - 3,PremOps,NJ - 3,1,3176,0.418988
+30,PremOps NJ - 3,PremOps,NJ - 3,2,12880,0.214967
+30,PremOps NJ - 3,PremOps,NJ - 3,3,36600,0.180901
+30,PremOps NJ - 3,PremOps,NJ - 3,4,148178,0.124407
+30,PremOps NJ - 3,PremOps,NJ - 3,5,636667,0.051135
+30,PremOps NJ - 3,PremOps,NJ - 3,6,2220123,0.007505
+30,PremOps NJ - 3,PremOps,NJ - 3,7,6564375,0.001592
+30,PremOps NJ - 3,PremOps,NJ - 3,8,19635935,0.000415
+30,PremOps NJ - 3,PremOps,NJ - 3,9,94194460,0.00009
+30,PremOps NJ - 3,PremOps,NJ - 3,10,100000000,0
+30,PremOps NJ - 3,PremOps,NJ - 3,11,100000000,0
+30,PremOps NJ - 3,PremOps,NJ - 3,12,100000000,0
+31,PremOps NY - 1,PremOps,NY - 1,1,1084,0.416928
+31,PremOps NY - 1,PremOps,NY - 1,2,11483,0.324022
+31,PremOps NY - 1,PremOps,NY - 1,3,57863,0.189794
+31,PremOps NY - 1,PremOps,NY - 1,4,193696,0.054499
+31,PremOps NY - 1,PremOps,NY - 1,5,605026,0.012121
+31,PremOps NY - 1,PremOps,NY - 1,6,1827663,0.002018
+31,PremOps NY - 1,PremOps,NY - 1,7,4938152,0.000447
+31,PremOps NY - 1,PremOps,NY - 1,8,11580571,0.000109
+31,PremOps NY - 1,PremOps,NY - 1,9,24644539,0.000047
+31,PremOps NY - 1,PremOps,NY - 1,10,100000000,0.000015
+31,PremOps NY - 1,PremOps,NY - 1,11,100000000,0
+31,PremOps NY - 1,PremOps,NY - 1,12,100000000,0
+32,PremOps NY - 2,PremOps,NY - 2,1,1212,0.295295
+32,PremOps NY - 2,PremOps,NY - 2,2,8674,0.307747
+32,PremOps NY - 2,PremOps,NY - 2,3,39243,0.21419
+32,PremOps NY - 2,PremOps,NY - 2,4,125249,0.121805
+32,PremOps NY - 2,PremOps,NY - 2,5,495462,0.051709
+32,PremOps NY - 2,PremOps,NY - 2,6,1411402,0.007165
+32,PremOps NY - 2,PremOps,NY - 2,7,3954718,0.001511
+32,PremOps NY - 2,PremOps,NY - 2,8,9491554,0.000387
+32,PremOps NY - 2,PremOps,NY - 2,9,22917357,0.00015
+32,PremOps NY - 2,PremOps,NY - 2,10,100000000,0.000041
+32,PremOps NY - 2,PremOps,NY - 2,11,100000000,0
+32,PremOps NY - 2,PremOps,NY - 2,12,100000000,0
+33,PremOps NY - 3,PremOps,NY - 3,1,2669,0.348756
+33,PremOps NY - 3,PremOps,NY - 3,2,16804,0.281449
+33,PremOps NY - 3,PremOps,NY - 3,3,105781,0.227117
+33,PremOps NY - 3,PremOps,NY - 3,4,587910,0.112067
+33,PremOps NY - 3,PremOps,NY - 3,5,1896923,0.02423
+33,PremOps NY - 3,PremOps,NY - 3,6,5730638,0.004924
+33,PremOps NY - 3,PremOps,NY - 3,7,17556461,0.001211
+33,PremOps NY - 3,PremOps,NY - 3,8,85074264,0.000246
+33,PremOps NY - 3,PremOps,NY - 3,9,100000000,0
+33,PremOps NY - 3,PremOps,NY - 3,10,100000000,0
+33,PremOps NY - 3,PremOps,NY - 3,11,100000000,0
+33,PremOps NY - 3,PremOps,NY - 3,12,100000000,0
+34,PremOps NC - 1,PremOps,NC - 1,1,1103,0.516844
+34,PremOps NC - 1,PremOps,NC - 1,2,4915,0.337929
+34,PremOps NC - 1,PremOps,NC - 1,3,14361,0.080784
+34,PremOps NC - 1,PremOps,NC - 1,4,54324,0.056902
+34,PremOps NC - 1,PremOps,NC - 1,5,252116,0.005176
+34,PremOps NC - 1,PremOps,NC - 1,6,652923,0.001766
+34,PremOps NC - 1,PremOps,NC - 1,7,1686623,0.000426
+34,PremOps NC - 1,PremOps,NC - 1,8,3971350,0.000117
+34,PremOps NC - 1,PremOps,NC - 1,9,8822800,0.000039
+34,PremOps NC - 1,PremOps,NC - 1,10,22384981,0.000014
+34,PremOps NC - 1,PremOps,NC - 1,11,100000000,0.000003
+34,PremOps NC - 1,PremOps,NC - 1,12,100000000,0
+35,PremOps NC - 2,PremOps,NC - 2,1,1626,0.516084
+35,PremOps NC - 2,PremOps,NC - 2,2,7478,0.3361
+35,PremOps NC - 2,PremOps,NC - 2,3,37624,0.111826
+35,PremOps NC - 2,PremOps,NC - 2,4,151255,0.026821
+35,PremOps NC - 2,PremOps,NC - 2,5,576111,0.007239
+35,PremOps NC - 2,PremOps,NC - 2,6,1678994,0.001418
+35,PremOps NC - 2,PremOps,NC - 2,7,4289216,0.000352
+35,PremOps NC - 2,PremOps,NC - 2,8,9511911,0.000103
+35,PremOps NC - 2,PremOps,NC - 2,9,22520203,0.000045
+35,PremOps NC - 2,PremOps,NC - 2,10,100000000,0.000012
+35,PremOps NC - 2,PremOps,NC - 2,11,100000000,0
+35,PremOps NC - 2,PremOps,NC - 2,12,100000000,0
+36,PremOps NC - 3,PremOps,NC - 3,1,3116,0.596396
+36,PremOps NC - 3,PremOps,NC - 3,2,16744,0.254098
+36,PremOps NC - 3,PremOps,NC - 3,3,96799,0.107564
+36,PremOps NC - 3,PremOps,NC - 3,4,500669,0.03327
+36,PremOps NC - 3,PremOps,NC - 3,5,1465284,0.006408
+36,PremOps NC - 3,PremOps,NC - 3,6,3762655,0.001571
+36,PremOps NC - 3,PremOps,NC - 3,7,8696398,0.000472
+36,PremOps NC - 3,PremOps,NC - 3,8,22126307,0.000177
+36,PremOps NC - 3,PremOps,NC - 3,9,100000000,0.000044
+36,PremOps NC - 3,PremOps,NC - 3,10,100000000,0
+36,PremOps NC - 3,PremOps,NC - 3,11,100000000,0
+36,PremOps NC - 3,PremOps,NC - 3,12,100000000,0
+37,PremOps OH - 1,PremOps,OH - 1,1,941,0.390653
+37,PremOps OH - 1,PremOps,OH - 1,2,4099,0.453207
+37,PremOps OH - 1,PremOps,OH - 1,3,14520,0.092304
+37,PremOps OH - 1,PremOps,OH - 1,4,44050,0.040994
+37,PremOps OH - 1,PremOps,OH - 1,5,109174,0.018844
+37,PremOps OH - 1,PremOps,OH - 1,6,423552,0.003169
+37,PremOps OH - 1,PremOps,OH - 1,7,1206789,0.000607
+37,PremOps OH - 1,PremOps,OH - 1,8,3024708,0.000158
+37,PremOps OH - 1,PremOps,OH - 1,9,7405733,0.000047
+37,PremOps OH - 1,PremOps,OH - 1,10,20420042,0.000014
+37,PremOps OH - 1,PremOps,OH - 1,11,94407699,0.000003
+37,PremOps OH - 1,PremOps,OH - 1,12,100000000,0
+38,PremOps OH - 2,PremOps,OH - 2,1,1413,0.39842
+38,PremOps OH - 2,PremOps,OH - 2,2,5206,0.38367
+38,PremOps OH - 2,PremOps,OH - 2,3,18475,0.129357
+38,PremOps OH - 2,PremOps,OH - 2,4,57413,0.051223
+38,PremOps OH - 2,PremOps,OH - 2,5,148786,0.02426
+38,PremOps OH - 2,PremOps,OH - 2,6,559767,0.010798
+38,PremOps OH - 2,PremOps,OH - 2,7,1689581,0.00167
+38,PremOps OH - 2,PremOps,OH - 2,8,4321405,0.000415
+38,PremOps OH - 2,PremOps,OH - 2,9,9601653,0.00012
+38,PremOps OH - 2,PremOps,OH - 2,10,22615901,0.000053
+38,PremOps OH - 2,PremOps,OH - 2,11,100000000,0.000014
+38,PremOps OH - 2,PremOps,OH - 2,12,100000000,0
+39,PremOps OH - 3,PremOps,OH - 3,1,2389,0.38282
+39,PremOps OH - 3,PremOps,OH - 3,2,7124,0.340821
+39,PremOps OH - 3,PremOps,OH - 3,3,32319,0.149243
+39,PremOps OH - 3,PremOps,OH - 3,4,110723,0.080089
+39,PremOps OH - 3,PremOps,OH - 3,5,593861,0.040735
+39,PremOps OH - 3,PremOps,OH - 3,6,2196270,0.004947
+39,PremOps OH - 3,PremOps,OH - 3,7,6549626,0.001023
+39,PremOps OH - 3,PremOps,OH - 3,8,19654431,0.000265
+39,PremOps OH - 3,PremOps,OH - 3,9,94362192,0.000057
+39,PremOps OH - 3,PremOps,OH - 3,10,100000000,0
+39,PremOps OH - 3,PremOps,OH - 3,11,100000000,0
+39,PremOps OH - 3,PremOps,OH - 3,12,100000000,0
+40,PremOps PA - 1,PremOps,PA - 1,1,1057,0.474893
+40,PremOps PA - 1,PremOps,PA - 1,2,8111,0.290492
+40,PremOps PA - 1,PremOps,PA - 1,3,28012,0.146481
+40,PremOps PA - 1,PremOps,PA - 1,4,91268,0.075144
+40,PremOps PA - 1,PremOps,PA - 1,5,397075,0.010488
+40,PremOps PA - 1,PremOps,PA - 1,6,1232965,0.001906
+40,PremOps PA - 1,PremOps,PA - 1,7,3294435,0.000428
+40,PremOps PA - 1,PremOps,PA - 1,8,8164471,0.000121
+40,PremOps PA - 1,PremOps,PA - 1,9,22019445,0.000038
+40,PremOps PA - 1,PremOps,PA - 1,10,100000000,0.000009
+40,PremOps PA - 1,PremOps,PA - 1,11,100000000,0
+40,PremOps PA - 1,PremOps,PA - 1,12,100000000,0
+41,PremOps PA - 2,PremOps,PA - 2,1,1487,0.466676
+41,PremOps PA - 2,PremOps,PA - 2,2,7965,0.299648
+41,PremOps PA - 2,PremOps,PA - 2,3,33706,0.160468
+41,PremOps PA - 2,PremOps,PA - 2,4,138131,0.056082
+41,PremOps PA - 2,PremOps,PA - 2,5,622585,0.013954
+41,PremOps PA - 2,PremOps,PA - 2,6,1848958,0.002188
+41,PremOps PA - 2,PremOps,PA - 2,7,4573085,0.000696
+41,PremOps PA - 2,PremOps,PA - 2,8,10593378,0.000181
+41,PremOps PA - 2,PremOps,PA - 2,9,23441329,0.000082
+41,PremOps PA - 2,PremOps,PA - 2,10,100000000,0.000025
+41,PremOps PA - 2,PremOps,PA - 2,11,100000000,0
+41,PremOps PA - 2,PremOps,PA - 2,12,100000000,0
+42,PremOps PA - 3,PremOps,PA - 3,1,2543,0.568037
+42,PremOps PA - 3,PremOps,PA - 3,2,18414,0.284581
+42,PremOps PA - 3,PremOps,PA - 3,3,113688,0.102188
+42,PremOps PA - 3,PremOps,PA - 3,4,699060,0.038942
+42,PremOps PA - 3,PremOps,PA - 3,5,2700420,0.00501
+42,PremOps PA - 3,PremOps,PA - 3,6,8237563,0.000923
+42,PremOps PA - 3,PremOps,PA - 3,7,22667527,0.000253
+42,PremOps PA - 3,PremOps,PA - 3,8,100000000,0.000066
+42,PremOps PA - 3,PremOps,PA - 3,9,100000000,0
+42,PremOps PA - 3,PremOps,PA - 3,10,100000000,0
+42,PremOps PA - 3,PremOps,PA - 3,11,100000000,0
+42,PremOps PA - 3,PremOps,PA - 3,12,100000000,0
+43,PremOps TX - 1,PremOps,TX - 1,1,972,0.296747
+43,PremOps TX - 1,PremOps,TX - 1,2,3757,0.456339
+43,PremOps TX - 1,PremOps,TX - 1,3,14411,0.166405
+43,PremOps TX - 1,PremOps,TX - 1,4,70477,0.066916
+43,PremOps TX - 1,PremOps,TX - 1,5,218829,0.008661
+43,PremOps TX - 1,PremOps,TX - 1,6,558912,0.003842
+43,PremOps TX - 1,PremOps,TX - 1,7,1520696,0.000786
+43,PremOps TX - 1,PremOps,TX - 1,8,3687531,0.00021
+43,PremOps TX - 1,PremOps,TX - 1,9,8498436,0.000066
+43,PremOps TX - 1,PremOps,TX - 1,10,22171736,0.000023
+43,PremOps TX - 1,PremOps,TX - 1,11,100000000,0.000005
+43,PremOps TX - 1,PremOps,TX - 1,12,100000000,0
+44,PremOps TX - 2,PremOps,TX - 2,1,1874,0.400554
+44,PremOps TX - 2,PremOps,TX - 2,2,7984,0.378523
+44,PremOps TX - 2,PremOps,TX - 2,3,41142,0.125009
+44,PremOps TX - 2,PremOps,TX - 2,4,128560,0.074849
+44,PremOps TX - 2,PremOps,TX - 2,5,602571,0.017409
+44,PremOps TX - 2,PremOps,TX - 2,6,1940010,0.002801
+44,PremOps TX - 2,PremOps,TX - 2,7,5281220,0.00061
+44,PremOps TX - 2,PremOps,TX - 2,8,12118161,0.000144
+44,PremOps TX - 2,PremOps,TX - 2,9,24151959,0.000075
+44,PremOps TX - 2,PremOps,TX - 2,10,100000000,0.000026
+44,PremOps TX - 2,PremOps,TX - 2,11,100000000,0
+44,PremOps TX - 2,PremOps,TX - 2,12,100000000,0
+45,PremOps TX - 3,PremOps,TX - 3,1,3237,0.483668
+45,PremOps TX - 3,PremOps,TX - 3,2,16130,0.292781
+45,PremOps TX - 3,PremOps,TX - 3,3,104949,0.171399
+45,PremOps TX - 3,PremOps,TX - 3,4,643478,0.045351
+45,PremOps TX - 3,PremOps,TX - 3,5,2376839,0.005377
+45,PremOps TX - 3,PremOps,TX - 3,6,7132450,0.001079
+45,PremOps TX - 3,PremOps,TX - 3,7,21112771,0.000282
+45,PremOps TX - 3,PremOps,TX - 3,8,100000000,0.000063
+45,PremOps TX - 3,PremOps,TX - 3,9,100000000,0
+45,PremOps TX - 3,PremOps,TX - 3,10,100000000,0
+45,PremOps TX - 3,PremOps,TX - 3,11,100000000,0
+45,PremOps TX - 3,PremOps,TX - 3,12,100000000,0
+46,PremOps VA - 1,PremOps,VA - 1,1,1060,0.501479
+46,PremOps VA - 1,PremOps,VA - 1,2,5177,0.350545
+46,PremOps VA - 1,PremOps,VA - 1,3,17641,0.08514
+46,PremOps VA - 1,PremOps,VA - 1,4,59707,0.053574
+46,PremOps VA - 1,PremOps,VA - 1,5,224711,0.005667
+46,PremOps VA - 1,PremOps,VA - 1,6,558066,0.00263
+46,PremOps VA - 1,PremOps,VA - 1,7,1402969,0.000683
+46,PremOps VA - 1,PremOps,VA - 1,8,3340257,0.000195
+46,PremOps VA - 1,PremOps,VA - 1,9,7883812,0.000062
+46,PremOps VA - 1,PremOps,VA - 1,10,21269961,0.00002
+46,PremOps VA - 1,PremOps,VA - 1,11,97339655,0.000005
+46,PremOps VA - 1,PremOps,VA - 1,12,100000000,0
+47,PremOps VA - 2,PremOps,VA - 2,1,1817,0.546404
+47,PremOps VA - 2,PremOps,VA - 2,2,8365,0.3343
+47,PremOps VA - 2,PremOps,VA - 2,3,50636,0.089682
+47,PremOps VA - 2,PremOps,VA - 2,4,185099,0.02069
+47,PremOps VA - 2,PremOps,VA - 2,5,656319,0.007166
+47,PremOps VA - 2,PremOps,VA - 2,6,2022484,0.001323
+47,PremOps VA - 2,PremOps,VA - 2,7,5468139,0.000313
+47,PremOps VA - 2,PremOps,VA - 2,8,12970970,0.000072
+47,PremOps VA - 2,PremOps,VA - 2,9,24830301,0.000036
+47,PremOps VA - 2,PremOps,VA - 2,10,100000000,0.000014
+47,PremOps VA - 2,PremOps,VA - 2,11,100000000,0
+47,PremOps VA - 2,PremOps,VA - 2,12,100000000,0
+48,PremOps VA - 3,PremOps,VA - 3,1,2992,0.611073
+48,PremOps VA - 3,PremOps,VA - 3,2,16587,0.254481
+48,PremOps VA - 3,PremOps,VA - 3,3,80001,0.095977
+48,PremOps VA - 3,PremOps,VA - 3,4,479522,0.031122
+48,PremOps VA - 3,PremOps,VA - 3,5,1485812,0.005566
+48,PremOps VA - 3,PremOps,VA - 3,6,4021182,0.001265
+48,PremOps VA - 3,PremOps,VA - 3,7,9401100,0.000342
+48,PremOps VA - 3,PremOps,VA - 3,8,22699302,0.000137
+48,PremOps VA - 3,PremOps,VA - 3,9,100000000,0.000037
+48,PremOps VA - 3,PremOps,VA - 3,10,100000000,0
+48,PremOps VA - 3,PremOps,VA - 3,11,100000000,0
+48,PremOps VA - 3,PremOps,VA - 3,12,100000000,0
+49,PremOps WI - 1,PremOps,WI - 1,1,1076,0.498012
+49,PremOps WI - 1,PremOps,WI - 1,2,4382,0.287674
+49,PremOps WI - 1,PremOps,WI - 1,3,13562,0.130387
+49,PremOps WI - 1,PremOps,WI - 1,4,57218,0.073346
+49,PremOps WI - 1,PremOps,WI - 1,5,251353,0.006747
+49,PremOps WI - 1,PremOps,WI - 1,6,587794,0.002793
+49,PremOps WI - 1,PremOps,WI - 1,7,1473375,0.000737
+49,PremOps WI - 1,PremOps,WI - 1,8,3509407,0.00021
+49,PremOps WI - 1,PremOps,WI - 1,9,8228294,0.000067
+49,PremOps WI - 1,PremOps,WI - 1,10,21982265,0.000022
+49,PremOps WI - 1,PremOps,WI - 1,11,100000000,0.000005
+49,PremOps WI - 1,PremOps,WI - 1,12,100000000,0
+50,PremOps WI - 2,PremOps,WI - 2,1,1308,0.495136
+50,PremOps WI - 2,PremOps,WI - 2,2,6228,0.366991
+50,PremOps WI - 2,PremOps,WI - 2,3,34997,0.098371
+50,PremOps WI - 2,PremOps,WI - 2,4,145167,0.031302
+50,PremOps WI - 2,PremOps,WI - 2,5,633466,0.006578
+50,PremOps WI - 2,PremOps,WI - 2,6,1929500,0.001207
+50,PremOps WI - 2,PremOps,WI - 2,7,5045099,0.000289
+50,PremOps WI - 2,PremOps,WI - 2,8,11102281,0.000074
+50,PremOps WI - 2,PremOps,WI - 2,9,23349832,0.00004
+50,PremOps WI - 2,PremOps,WI - 2,10,100000000,0.000012
+50,PremOps WI - 2,PremOps,WI - 2,11,100000000,0
+50,PremOps WI - 2,PremOps,WI - 2,12,100000000,0
+51,PremOps WI - 3,PremOps,WI - 3,1,2372,0.510966
+51,PremOps WI - 3,PremOps,WI - 3,2,9985,0.256712
+51,PremOps WI - 3,PremOps,WI - 3,3,34639,0.132137
+51,PremOps WI - 3,PremOps,WI - 3,4,116928,0.063744
+51,PremOps WI - 3,PremOps,WI - 3,5,491755,0.028231
+51,PremOps WI - 3,PremOps,WI - 3,6,1390871,0.006041
+51,PremOps WI - 3,PremOps,WI - 3,7,3555429,0.001511
+51,PremOps WI - 3,PremOps,WI - 3,8,8371106,0.000457
+51,PremOps WI - 3,PremOps,WI - 3,9,21904403,0.000162
+51,PremOps WI - 3,PremOps,WI - 3,10,100000000,0.000039
+51,PremOps WI - 3,PremOps,WI - 3,11,100000000,0
+51,PremOps WI - 3,PremOps,WI - 3,12,100000000,0
+52,PremOps MULTI - 1,PremOps,MULTI - 1,1,1024,0.414591
+52,PremOps MULTI - 1,PremOps,MULTI - 1,2,4808,0.328724
+52,PremOps MULTI - 1,PremOps,MULTI - 1,3,17532,0.15433
+52,PremOps MULTI - 1,PremOps,MULTI - 1,4,63233,0.074711
+52,PremOps MULTI - 1,PremOps,MULTI - 1,5,158561,0.018222
+52,PremOps MULTI - 1,PremOps,MULTI - 1,6,401833,0.00686
+52,PremOps MULTI - 1,PremOps,MULTI - 1,7,987876,0.001771
+52,PremOps MULTI - 1,PremOps,MULTI - 1,8,2233559,0.000515
+52,PremOps MULTI - 1,PremOps,MULTI - 1,9,4531710,0.000164
+52,PremOps MULTI - 1,PremOps,MULTI - 1,10,8927946,0.000074
+52,PremOps MULTI - 1,PremOps,MULTI - 1,11,22252780,0.000031
+52,PremOps MULTI - 1,PremOps,MULTI - 1,12,100000000,0.000007
+53,PremOps MULTI - 2,PremOps,MULTI - 2,1,1488,0.428195
+53,PremOps MULTI - 2,PremOps,MULTI - 2,2,7535,0.336983
+53,PremOps MULTI - 2,PremOps,MULTI - 2,3,35423,0.148069
+53,PremOps MULTI - 2,PremOps,MULTI - 2,4,128810,0.06146
+53,PremOps MULTI - 2,PremOps,MULTI - 2,5,511727,0.020359
+53,PremOps MULTI - 2,PremOps,MULTI - 2,6,1527082,0.003658
+53,PremOps MULTI - 2,PremOps,MULTI - 2,7,3928605,0.000886
+53,PremOps MULTI - 2,PremOps,MULTI - 2,8,8984861,0.000262
+53,PremOps MULTI - 2,PremOps,MULTI - 2,9,22356733,0.000102
+53,PremOps MULTI - 2,PremOps,MULTI - 2,10,100000000,0.000026
+53,PremOps MULTI - 2,PremOps,MULTI - 2,11,100000000,0
+53,PremOps MULTI - 2,PremOps,MULTI - 2,12,100000000,0
+54,PremOps MULTI - 3,PremOps,MULTI - 3,1,2949,0.534595
+54,PremOps MULTI - 3,PremOps,MULTI - 3,2,17498,0.279731
+54,PremOps MULTI - 3,PremOps,MULTI - 3,3,102839,0.128312
+54,PremOps MULTI - 3,PremOps,MULTI - 3,4,586041,0.04759
+54,PremOps MULTI - 3,PremOps,MULTI - 3,5,1872018,0.007377
+54,PremOps MULTI - 3,PremOps,MULTI - 3,6,5031882,0.001711
+54,PremOps MULTI - 3,PremOps,MULTI - 3,7,11606386,0.000415
+54,PremOps MULTI - 3,PremOps,MULTI - 3,8,24072538,0.000202
+54,PremOps MULTI - 3,PremOps,MULTI - 3,9,100000000,0.000067
+54,PremOps MULTI - 3,PremOps,MULTI - 3,10,100000000,0
+54,PremOps MULTI - 3,PremOps,MULTI - 3,11,100000000,0
+54,PremOps MULTI - 3,PremOps,MULTI - 3,12,100000000,0
+55,Products A,Products,A,1,936,0.176537
+55,Products A,Products,A,2,2411,0.391951
+55,Products A,Products,A,3,6442,0.248922
+55,Products A,Products,A,4,20248,0.113135
+55,Products A,Products,A,5,62412,0.043178
+55,Products A,Products,A,6,136304,0.014752
+55,Products A,Products,A,7,467399,0.008742
+55,Products A,Products,A,8,1232958,0.002014
+55,Products A,Products,A,9,3022913,0.000544
+55,Products A,Products,A,10,7340343,0.000164
+55,Products A,Products,A,11,20188577,0.00005
+55,Products A,Products,A,12,92861953,0.000011
+56,Products B,Products,B,1,2597,0.345741
+56,Products B,Products,B,2,9185,0.332724
+56,Products B,Products,B,3,34521,0.177363
+56,Products B,Products,B,4,129180,0.106868
+56,Products B,Products,B,5,591936,0.029365
+56,Products B,Products,B,6,1679763,0.005924
+56,Products B,Products,B,7,4272482,0.001421
+56,Products B,Products,B,8,9716829,0.000399
+56,Products B,Products,B,9,23319137,0.000155
+56,Products B,Products,B,10,100000000,0.00004
+56,Products B,Products,B,11,100000000,0
+56,Products B,Products,B,12,100000000,0
+57,Products C,Products,C,1,2942,0.233756
+57,Products C,Products,C,2,10312,0.335551
+57,Products C,Products,C,3,39892,0.199008
+57,Products C,Products,C,4,127529,0.144379
+57,Products C,Products,C,5,594715,0.069026
+57,Products C,Products,C,6,1720318,0.013682
+57,Products C,Products,C,7,4436279,0.003247
+57,Products C,Products,C,8,10065277,0.000887
+57,Products C,Products,C,9,23453293,0.000365
+57,Products C,Products,C,10,100000000,0.000099
+57,Products C,Products,C,11,100000000,0
+57,Products C,Products,C,12,100000000,0
+58,AutoLiab Zone Rated,AutoLiab,Zone Rated,1,4757,0.709708
+58,AutoLiab Zone Rated,AutoLiab,Zone Rated,2,20877,0.203843
+58,AutoLiab Zone Rated,AutoLiab,Zone Rated,3,81521,0.055739
+58,AutoLiab Zone Rated,AutoLiab,Zone Rated,4,462337,0.021882
+58,AutoLiab Zone Rated,AutoLiab,Zone Rated,5,1188411,0.005928
+58,AutoLiab Zone Rated,AutoLiab,Zone Rated,6,2859530,0.00193
+58,AutoLiab Zone Rated,AutoLiab,Zone Rated,7,7018391,0.000676
+58,AutoLiab Zone Rated,AutoLiab,Zone Rated,8,20002006,0.000234
+58,AutoLiab Zone Rated,AutoLiab,Zone Rated,9,100000000,0.00006
+58,AutoLiab Zone Rated,AutoLiab,Zone Rated,10,100000000,0
+58,AutoLiab Zone Rated,AutoLiab,Zone Rated,11,100000000,0
+58,AutoLiab Zone Rated,AutoLiab,Zone Rated,12,100000000,0
+59,AutoLiab 1 - Light & Medium,AutoLiab,1 - Light & Medium,1,2861,0.704142
+59,AutoLiab 1 - Light & Medium,AutoLiab,1 - Light & Medium,2,13944,0.240336
+59,AutoLiab 1 - Light & Medium,AutoLiab,1 - Light & Medium,3,49414,0.042076
+59,AutoLiab 1 - Light & Medium,AutoLiab,1 - Light & Medium,4,189326,0.006802
+59,AutoLiab 1 - Light & Medium,AutoLiab,1 - Light & Medium,5,481822,0.004979
+59,AutoLiab 1 - Light & Medium,AutoLiab,1 - Light & Medium,6,1283349,0.001194
+59,AutoLiab 1 - Light & Medium,AutoLiab,1 - Light & Medium,7,3169874,0.000328
+59,AutoLiab 1 - Light & Medium,AutoLiab,1 - Light & Medium,8,7674832,0.000102
+59,AutoLiab 1 - Light & Medium,AutoLiab,1 - Light & Medium,9,21060742,0.000033
+59,AutoLiab 1 - Light & Medium,AutoLiab,1 - Light & Medium,10,98216484,0.000008
+59,AutoLiab 1 - Light & Medium,AutoLiab,1 - Light & Medium,11,100000000,0
+59,AutoLiab 1 - Light & Medium,AutoLiab,1 - Light & Medium,12,100000000,0
+60,AutoLiab 1 - Heavy,AutoLiab,1 - Heavy,1,3190,0.732203
+60,AutoLiab 1 - Heavy,AutoLiab,1 - Heavy,2,14523,0.211172
+60,AutoLiab 1 - Heavy,AutoLiab,1 - Heavy,3,59723,0.044599
+60,AutoLiab 1 - Heavy,AutoLiab,1 - Heavy,4,452870,0.009664
+60,AutoLiab 1 - Heavy,AutoLiab,1 - Heavy,5,1456799,0.001805
+60,AutoLiab 1 - Heavy,AutoLiab,1 - Heavy,6,4133507,0.000398
+60,AutoLiab 1 - Heavy,AutoLiab,1 - Heavy,7,9795658,0.000101
+60,AutoLiab 1 - Heavy,AutoLiab,1 - Heavy,8,22638704,0.000045
+60,AutoLiab 1 - Heavy,AutoLiab,1 - Heavy,9,100000000,0.000013
+60,AutoLiab 1 - Heavy,AutoLiab,1 - Heavy,10,100000000,0
+60,AutoLiab 1 - Heavy,AutoLiab,1 - Heavy,11,100000000,0
+60,AutoLiab 1 - Heavy,AutoLiab,1 - Heavy,12,100000000,0
+61,AutoLiab 1 - Extra Heavy,AutoLiab,1 - Extra Heavy,1,3181,0.684067
+61,AutoLiab 1 - Extra Heavy,AutoLiab,1 - Extra Heavy,2,14763,0.243498
+61,AutoLiab 1 - Extra Heavy,AutoLiab,1 - Extra Heavy,3,67452,0.053047
+61,AutoLiab 1 - Extra Heavy,AutoLiab,1 - Extra Heavy,4,473415,0.015152
+61,AutoLiab 1 - Extra Heavy,AutoLiab,1 - Extra Heavy,5,1410157,0.003134
+61,AutoLiab 1 - Extra Heavy,AutoLiab,1 - Extra Heavy,6,3708078,0.000758
+61,AutoLiab 1 - Extra Heavy,AutoLiab,1 - Extra Heavy,7,8565641,0.000229
+61,AutoLiab 1 - Extra Heavy,AutoLiab,1 - Extra Heavy,8,21713340,0.000091
+61,AutoLiab 1 - Extra Heavy,AutoLiab,1 - Extra Heavy,9,100000000,0.000024
+61,AutoLiab 1 - Extra Heavy,AutoLiab,1 - Extra Heavy,10,100000000,0
+61,AutoLiab 1 - Extra Heavy,AutoLiab,1 - Extra Heavy,11,100000000,0
+61,AutoLiab 1 - Extra Heavy,AutoLiab,1 - Extra Heavy,12,100000000,0
+62,AutoLiab 1 - All Other,AutoLiab,1 - All Other,1,2459,0.673397
+62,AutoLiab 1 - All Other,AutoLiab,1 - All Other,2,11668,0.241705
+62,AutoLiab 1 - All Other,AutoLiab,1 - All Other,3,28776,0.051018
+62,AutoLiab 1 - All Other,AutoLiab,1 - All Other,4,81638,0.024313
+62,AutoLiab 1 - All Other,AutoLiab,1 - All Other,5,429121,0.007551
+62,AutoLiab 1 - All Other,AutoLiab,1 - All Other,6,1285644,0.001508
+62,AutoLiab 1 - All Other,AutoLiab,1 - All Other,7,3406327,0.000358
+62,AutoLiab 1 - All Other,AutoLiab,1 - All Other,8,8210432,0.000105
+62,AutoLiab 1 - All Other,AutoLiab,1 - All Other,9,21734143,0.000036
+62,AutoLiab 1 - All Other,AutoLiab,1 - All Other,10,100000000,0.000009
+62,AutoLiab 1 - All Other,AutoLiab,1 - All Other,11,100000000,0
+62,AutoLiab 1 - All Other,AutoLiab,1 - All Other,12,100000000,0
+63,AutoLiab 2 - Light & Medium,AutoLiab,2 - Light & Medium,1,3003,0.767824
+63,AutoLiab 2 - Light & Medium,AutoLiab,2 - Light & Medium,2,16695,0.18538
+63,AutoLiab 2 - Light & Medium,AutoLiab,2 - Light & Medium,3,71117,0.036633
+63,AutoLiab 2 - Light & Medium,AutoLiab,2 - Light & Medium,4,420439,0.007872
+63,AutoLiab 2 - Light & Medium,AutoLiab,2 - Light & Medium,5,1212349,0.001678
+63,AutoLiab 2 - Light & Medium,AutoLiab,2 - Light & Medium,6,3134903,0.00043
+63,AutoLiab 2 - Light & Medium,AutoLiab,2 - Light & Medium,7,7718968,0.00013
+63,AutoLiab 2 - Light & Medium,AutoLiab,2 - Light & Medium,8,21232298,0.000043
+63,AutoLiab 2 - Light & Medium,AutoLiab,2 - Light & Medium,9,100000000,0.00001
+63,AutoLiab 2 - Light & Medium,AutoLiab,2 - Light & Medium,10,100000000,0
+63,AutoLiab 2 - Light & Medium,AutoLiab,2 - Light & Medium,11,100000000,0
+63,AutoLiab 2 - Light & Medium,AutoLiab,2 - Light & Medium,12,100000000,0
+64,AutoLiab 2 - Heavy,AutoLiab,2 - Heavy,1,3348,0.780454
+64,AutoLiab 2 - Heavy,AutoLiab,2 - Heavy,2,13628,0.126234
+64,AutoLiab 2 - Heavy,AutoLiab,2 - Heavy,3,43342,0.075808
+64,AutoLiab 2 - Heavy,AutoLiab,2 - Heavy,4,345992,0.013612
+64,AutoLiab 2 - Heavy,AutoLiab,2 - Heavy,5,1044382,0.002879
+64,AutoLiab 2 - Heavy,AutoLiab,2 - Heavy,6,2839986,0.000722
+64,AutoLiab 2 - Heavy,AutoLiab,2 - Heavy,7,7331505,0.000208
+64,AutoLiab 2 - Heavy,AutoLiab,2 - Heavy,8,20708749,0.000067
+64,AutoLiab 2 - Heavy,AutoLiab,2 - Heavy,9,100000000,0.000016
+64,AutoLiab 2 - Heavy,AutoLiab,2 - Heavy,10,100000000,0
+64,AutoLiab 2 - Heavy,AutoLiab,2 - Heavy,11,100000000,0
+64,AutoLiab 2 - Heavy,AutoLiab,2 - Heavy,12,100000000,0
+65,AutoLiab 2 - Extra Heavy,AutoLiab,2 - Extra Heavy,1,3482,0.700219
+65,AutoLiab 2 - Extra Heavy,AutoLiab,2 - Extra Heavy,2,16872,0.231142
+65,AutoLiab 2 - Extra Heavy,AutoLiab,2 - Extra Heavy,3,82010,0.045014
+65,AutoLiab 2 - Extra Heavy,AutoLiab,2 - Extra Heavy,4,382226,0.017989
+65,AutoLiab 2 - Extra Heavy,AutoLiab,2 - Extra Heavy,5,1096833,0.004058
+65,AutoLiab 2 - Extra Heavy,AutoLiab,2 - Extra Heavy,6,2860270,0.001102
+65,AutoLiab 2 - Extra Heavy,AutoLiab,2 - Extra Heavy,7,7250468,0.000338
+65,AutoLiab 2 - Extra Heavy,AutoLiab,2 - Extra Heavy,8,20536076,0.000111
+65,AutoLiab 2 - Extra Heavy,AutoLiab,2 - Extra Heavy,9,100000000,0.000027
+65,AutoLiab 2 - Extra Heavy,AutoLiab,2 - Extra Heavy,10,100000000,0
+65,AutoLiab 2 - Extra Heavy,AutoLiab,2 - Extra Heavy,11,100000000,0
+65,AutoLiab 2 - Extra Heavy,AutoLiab,2 - Extra Heavy,12,100000000,0
+66,AutoLiab 2 - All Other,AutoLiab,2 - All Other,1,2621,0.734477
+66,AutoLiab 2 - All Other,AutoLiab,2 - All Other,2,14173,0.196181
+66,AutoLiab 2 - All Other,AutoLiab,2 - All Other,3,53471,0.05156
+66,AutoLiab 2 - All Other,AutoLiab,2 - All Other,4,266506,0.013405
+66,AutoLiab 2 - All Other,AutoLiab,2 - All Other,5,753423,0.00318
+66,AutoLiab 2 - All Other,AutoLiab,2 - All Other,6,1939271,0.00082
+66,AutoLiab 2 - All Other,AutoLiab,2 - All Other,7,4367776,0.000229
+66,AutoLiab 2 - All Other,AutoLiab,2 - All Other,8,8675819,0.000093
+66,AutoLiab 2 - All Other,AutoLiab,2 - All Other,9,21423999,0.000044
+66,AutoLiab 2 - All Other,AutoLiab,2 - All Other,10,100000000,0.000011
+66,AutoLiab 2 - All Other,AutoLiab,2 - All Other,11,100000000,0
+66,AutoLiab 2 - All Other,AutoLiab,2 - All Other,12,100000000,0
+67,AutoLiab 3 - Light & Medium,AutoLiab,3 - Light & Medium,1,3124,0.760079
+67,AutoLiab 3 - Light & Medium,AutoLiab,3 - Light & Medium,2,16123,0.174843
+67,AutoLiab 3 - Light & Medium,AutoLiab,3 - Light & Medium,3,59094,0.046732
+67,AutoLiab 3 - Light & Medium,AutoLiab,3 - Light & Medium,4,214131,0.004663
+67,AutoLiab 3 - Light & Medium,AutoLiab,3 - Light & Medium,5,399736,0.009568
+67,AutoLiab 3 - Light & Medium,AutoLiab,3 - Light & Medium,6,951884,0.00273
+67,AutoLiab 3 - Light & Medium,AutoLiab,3 - Light & Medium,7,2060768,0.000841
+67,AutoLiab 3 - Light & Medium,AutoLiab,3 - Light & Medium,8,3988193,0.000315
+67,AutoLiab 3 - Light & Medium,AutoLiab,3 - Light & Medium,9,8171106,0.000154
+67,AutoLiab 3 - Light & Medium,AutoLiab,3 - Light & Medium,10,21399245,0.00006
+67,AutoLiab 3 - Light & Medium,AutoLiab,3 - Light & Medium,11,100000000,0.000015
+67,AutoLiab 3 - Light & Medium,AutoLiab,3 - Light & Medium,12,100000000,0
+68,AutoLiab 3 - Heavy,AutoLiab,3 - Heavy,1,3385,0.78743
+68,AutoLiab 3 - Heavy,AutoLiab,3 - Heavy,2,19205,0.158827
+68,AutoLiab 3 - Heavy,AutoLiab,3 - Heavy,3,85581,0.040287
+68,AutoLiab 3 - Heavy,AutoLiab,3 - Heavy,4,507725,0.010681
+68,AutoLiab 3 - Heavy,AutoLiab,3 - Heavy,5,1611489,0.002092
+68,AutoLiab 3 - Heavy,AutoLiab,3 - Heavy,6,4553415,0.000486
+68,AutoLiab 3 - Heavy,AutoLiab,3 - Heavy,7,10646432,0.000116
+68,AutoLiab 3 - Heavy,AutoLiab,3 - Heavy,8,22691329,0.000061
+68,AutoLiab 3 - Heavy,AutoLiab,3 - Heavy,9,100000000,0.00002
+68,AutoLiab 3 - Heavy,AutoLiab,3 - Heavy,10,100000000,0
+68,AutoLiab 3 - Heavy,AutoLiab,3 - Heavy,11,100000000,0
+68,AutoLiab 3 - Heavy,AutoLiab,3 - Heavy,12,100000000,0
+69,AutoLiab 3 - Extra Heavy,AutoLiab,3 - Extra Heavy,1,3649,0.693371
+69,AutoLiab 3 - Extra Heavy,AutoLiab,3 - Extra Heavy,2,16470,0.21028
+69,AutoLiab 3 - Extra Heavy,AutoLiab,3 - Extra Heavy,3,62447,0.064787
+69,AutoLiab 3 - Extra Heavy,AutoLiab,3 - Extra Heavy,4,363050,0.024741
+69,AutoLiab 3 - Extra Heavy,AutoLiab,3 - Extra Heavy,5,1106505,0.005038
+69,AutoLiab 3 - Extra Heavy,AutoLiab,3 - Extra Heavy,6,2978156,0.001255
+69,AutoLiab 3 - Extra Heavy,AutoLiab,3 - Extra Heavy,7,7505500,0.000372
+69,AutoLiab 3 - Extra Heavy,AutoLiab,3 - Extra Heavy,8,20832290,0.000125
+69,AutoLiab 3 - Extra Heavy,AutoLiab,3 - Extra Heavy,9,100000000,0.000031
+69,AutoLiab 3 - Extra Heavy,AutoLiab,3 - Extra Heavy,10,100000000,0
+69,AutoLiab 3 - Extra Heavy,AutoLiab,3 - Extra Heavy,11,100000000,0
+69,AutoLiab 3 - Extra Heavy,AutoLiab,3 - Extra Heavy,12,100000000,0
+70,AutoLiab 3 - All Other,AutoLiab,3 - All Other,1,2733,0.727677
+70,AutoLiab 3 - All Other,AutoLiab,3 - All Other,2,12113,0.181926
+70,AutoLiab 3 - All Other,AutoLiab,3 - All Other,3,43919,0.065555
+70,AutoLiab 3 - All Other,AutoLiab,3 - All Other,4,183243,0.013994
+70,AutoLiab 3 - All Other,AutoLiab,3 - All Other,5,433919,0.007781
+70,AutoLiab 3 - All Other,AutoLiab,3 - All Other,6,1102439,0.002126
+70,AutoLiab 3 - All Other,AutoLiab,3 - All Other,7,2639388,0.000628
+70,AutoLiab 3 - All Other,AutoLiab,3 - All Other,8,5508934,0.000151
+70,AutoLiab 3 - All Other,AutoLiab,3 - All Other,9,8697826,0.000094
+70,AutoLiab 3 - All Other,AutoLiab,3 - All Other,10,21254340,0.000054
+70,AutoLiab 3 - All Other,AutoLiab,3 - All Other,11,100000000,0.000014
+70,AutoLiab 3 - All Other,AutoLiab,3 - All Other,12,100000000,0
+71,AutoLiab 4 - Light & Medium,AutoLiab,4 - Light & Medium,1,3008,0.718798
+71,AutoLiab 4 - Light & Medium,AutoLiab,4 - Light & Medium,2,13012,0.182736
+71,AutoLiab 4 - Light & Medium,AutoLiab,4 - Light & Medium,3,28729,0.062717
+71,AutoLiab 4 - Light & Medium,AutoLiab,4 - Light & Medium,4,112003,0.020843
+71,AutoLiab 4 - Light & Medium,AutoLiab,4 - Light & Medium,5,415086,0.011475
+71,AutoLiab 4 - Light & Medium,AutoLiab,4 - Light & Medium,6,1190761,0.002499
+71,AutoLiab 4 - Light & Medium,AutoLiab,4 - Light & Medium,7,3076088,0.000652
+71,AutoLiab 4 - Light & Medium,AutoLiab,4 - Light & Medium,8,7612371,0.000199
+71,AutoLiab 4 - Light & Medium,AutoLiab,4 - Light & Medium,9,21075133,0.000065
+71,AutoLiab 4 - Light & Medium,AutoLiab,4 - Light & Medium,10,100000000,0.000016
+71,AutoLiab 4 - Light & Medium,AutoLiab,4 - Light & Medium,11,100000000,0
+71,AutoLiab 4 - Light & Medium,AutoLiab,4 - Light & Medium,12,100000000,0
+72,AutoLiab 4 - Heavy,AutoLiab,4 - Heavy,1,3310,0.733204
+72,AutoLiab 4 - Heavy,AutoLiab,4 - Heavy,2,16111,0.203839
+72,AutoLiab 4 - Heavy,AutoLiab,4 - Heavy,3,77602,0.037832
+72,AutoLiab 4 - Heavy,AutoLiab,4 - Heavy,4,415307,0.019598
+72,AutoLiab 4 - Heavy,AutoLiab,4 - Heavy,5,1261504,0.004059
+72,AutoLiab 4 - Heavy,AutoLiab,4 - Heavy,6,3337367,0.001003
+72,AutoLiab 4 - Heavy,AutoLiab,4 - Heavy,7,7915441,0.000315
+72,AutoLiab 4 - Heavy,AutoLiab,4 - Heavy,8,20983369,0.000119
+72,AutoLiab 4 - Heavy,AutoLiab,4 - Heavy,9,100000000,0.000031
+72,AutoLiab 4 - Heavy,AutoLiab,4 - Heavy,10,100000000,0
+72,AutoLiab 4 - Heavy,AutoLiab,4 - Heavy,11,100000000,0
+72,AutoLiab 4 - Heavy,AutoLiab,4 - Heavy,12,100000000,0
+73,AutoLiab 4 - Extra Heavy,AutoLiab,4 - Extra Heavy,1,3379,0.657704
+73,AutoLiab 4 - Extra Heavy,AutoLiab,4 - Extra Heavy,2,16933,0.247614
+73,AutoLiab 4 - Extra Heavy,AutoLiab,4 - Extra Heavy,3,72743,0.060739
+73,AutoLiab 4 - Extra Heavy,AutoLiab,4 - Extra Heavy,4,458035,0.026038
+73,AutoLiab 4 - Extra Heavy,AutoLiab,4 - Extra Heavy,5,1370977,0.005707
+73,AutoLiab 4 - Extra Heavy,AutoLiab,4 - Extra Heavy,6,3562766,0.001447
+73,AutoLiab 4 - Extra Heavy,AutoLiab,4 - Extra Heavy,7,8012823,0.000485
+73,AutoLiab 4 - Extra Heavy,AutoLiab,4 - Extra Heavy,8,20668063,0.000209
+73,AutoLiab 4 - Extra Heavy,AutoLiab,4 - Extra Heavy,9,100000000,0.000057
+73,AutoLiab 4 - Extra Heavy,AutoLiab,4 - Extra Heavy,10,100000000,0
+73,AutoLiab 4 - Extra Heavy,AutoLiab,4 - Extra Heavy,11,100000000,0
+73,AutoLiab 4 - Extra Heavy,AutoLiab,4 - Extra Heavy,12,100000000,0
+74,AutoLiab 4 - All Other,AutoLiab,4 - All Other,1,2637,0.699532
+74,AutoLiab 4 - All Other,AutoLiab,4 - All Other,2,12726,0.222703
+74,AutoLiab 4 - All Other,AutoLiab,4 - All Other,3,51414,0.056717
+74,AutoLiab 4 - All Other,AutoLiab,4 - All Other,4,376893,0.016565
+74,AutoLiab 4 - All Other,AutoLiab,4 - All Other,5,1138374,0.003331
+74,AutoLiab 4 - All Other,AutoLiab,4 - All Other,6,3045785,0.000817
+74,AutoLiab 4 - All Other,AutoLiab,4 - All Other,7,7647205,0.000238
+74,AutoLiab 4 - All Other,AutoLiab,4 - All Other,8,21131918,0.000078
+74,AutoLiab 4 - All Other,AutoLiab,4 - All Other,9,100000000,0.000019
+74,AutoLiab 4 - All Other,AutoLiab,4 - All Other,10,100000000,0
+74,AutoLiab 4 - All Other,AutoLiab,4 - All Other,11,100000000,0
+74,AutoLiab 4 - All Other,AutoLiab,4 - All Other,12,100000000,0
+75,AutoLiab 5 - Light & Medium,AutoLiab,5 - Light & Medium,1,3054,0.683737
+75,AutoLiab 5 - Light & Medium,AutoLiab,5 - Light & Medium,2,17037,0.205047
+75,AutoLiab 5 - Light & Medium,AutoLiab,5 - Light & Medium,3,46801,0.053093
+75,AutoLiab 5 - Light & Medium,AutoLiab,5 - Light & Medium,4,128544,0.037568
+75,AutoLiab 5 - Light & Medium,AutoLiab,5 - Light & Medium,5,486883,0.015847
+75,AutoLiab 5 - Light & Medium,AutoLiab,5 - Light & Medium,6,1404048,0.003437
+75,AutoLiab 5 - Light & Medium,AutoLiab,5 - Light & Medium,7,3600224,0.000867
+75,AutoLiab 5 - Light & Medium,AutoLiab,5 - Light & Medium,8,8319819,0.000273
+75,AutoLiab 5 - Light & Medium,AutoLiab,5 - Light & Medium,9,21536248,0.000104
+75,AutoLiab 5 - Light & Medium,AutoLiab,5 - Light & Medium,10,100000000,0.000027
+75,AutoLiab 5 - Light & Medium,AutoLiab,5 - Light & Medium,11,100000000,0
+75,AutoLiab 5 - Light & Medium,AutoLiab,5 - Light & Medium,12,100000000,0
+76,AutoLiab 5 - Heavy,AutoLiab,5 - Heavy,1,3676,0.735497
+76,AutoLiab 5 - Heavy,AutoLiab,5 - Heavy,2,26182,0.181328
+76,AutoLiab 5 - Heavy,AutoLiab,5 - Heavy,3,96370,0.049657
+76,AutoLiab 5 - Heavy,AutoLiab,5 - Heavy,4,436510,0.025569
+76,AutoLiab 5 - Heavy,AutoLiab,5 - Heavy,5,1257269,0.00571
+76,AutoLiab 5 - Heavy,AutoLiab,5 - Heavy,6,3210284,0.001517
+76,AutoLiab 5 - Heavy,AutoLiab,5 - Heavy,7,7660592,0.000496
+76,AutoLiab 5 - Heavy,AutoLiab,5 - Heavy,8,20798864,0.00018
+76,AutoLiab 5 - Heavy,AutoLiab,5 - Heavy,9,100000000,0.000046
+76,AutoLiab 5 - Heavy,AutoLiab,5 - Heavy,10,100000000,0
+76,AutoLiab 5 - Heavy,AutoLiab,5 - Heavy,11,100000000,0
+76,AutoLiab 5 - Heavy,AutoLiab,5 - Heavy,12,100000000,0
+77,AutoLiab 5 - Extra Heavy,AutoLiab,5 - Extra Heavy,1,4186,0.640616
+77,AutoLiab 5 - Extra Heavy,AutoLiab,5 - Extra Heavy,2,20450,0.23328
+77,AutoLiab 5 - Extra Heavy,AutoLiab,5 - Extra Heavy,3,80932,0.068911
+77,AutoLiab 5 - Extra Heavy,AutoLiab,5 - Extra Heavy,4,470029,0.044323
+77,AutoLiab 5 - Extra Heavy,AutoLiab,5 - Extra Heavy,5,1407701,0.009412
+77,AutoLiab 5 - Extra Heavy,AutoLiab,5 - Extra Heavy,6,3689262,0.002327
+77,AutoLiab 5 - Extra Heavy,AutoLiab,5 - Extra Heavy,7,8365644,0.000736
+77,AutoLiab 5 - Extra Heavy,AutoLiab,5 - Extra Heavy,8,21203223,0.000311
+77,AutoLiab 5 - Extra Heavy,AutoLiab,5 - Extra Heavy,9,100000000,0.000084
+77,AutoLiab 5 - Extra Heavy,AutoLiab,5 - Extra Heavy,10,100000000,0
+77,AutoLiab 5 - Extra Heavy,AutoLiab,5 - Extra Heavy,11,100000000,0
+77,AutoLiab 5 - Extra Heavy,AutoLiab,5 - Extra Heavy,12,100000000,0
+78,AutoLiab 5 - All Other,AutoLiab,5 - All Other,1,2872,0.655275
+78,AutoLiab 5 - All Other,AutoLiab,5 - All Other,2,17795,0.225056
+78,AutoLiab 5 - All Other,AutoLiab,5 - All Other,3,61142,0.076679
+78,AutoLiab 5 - All Other,AutoLiab,5 - All Other,4,353788,0.033211
+78,AutoLiab 5 - All Other,AutoLiab,5 - All Other,5,1026778,0.007192
+78,AutoLiab 5 - All Other,AutoLiab,5 - All Other,6,2732508,0.001855
+78,AutoLiab 5 - All Other,AutoLiab,5 - All Other,7,7072714,0.000531
+78,AutoLiab 5 - All Other,AutoLiab,5 - All Other,8,20176853,0.000163
+78,AutoLiab 5 - All Other,AutoLiab,5 - All Other,9,96960821,0.000038
+78,AutoLiab 5 - All Other,AutoLiab,5 - All Other,10,100000000,0
+78,AutoLiab 5 - All Other,AutoLiab,5 - All Other,11,100000000,0
+78,AutoLiab 5 - All Other,AutoLiab,5 - All Other,12,100000000,0
+79,AutoLiab 6 - Light & Medium,AutoLiab,6 - Light & Medium,1,2345,0.65848
+79,AutoLiab 6 - Light & Medium,AutoLiab,6 - Light & Medium,2,13762,0.218719
+79,AutoLiab 6 - Light & Medium,AutoLiab,6 - Light & Medium,3,50542,0.063865
+79,AutoLiab 6 - Light & Medium,AutoLiab,6 - Light & Medium,4,256305,0.035929
+79,AutoLiab 6 - Light & Medium,AutoLiab,6 - Light & Medium,5,461946,0.012916
+79,AutoLiab 6 - Light & Medium,AutoLiab,6 - Light & Medium,6,885240,0.006344
+79,AutoLiab 6 - Light & Medium,AutoLiab,6 - Light & Medium,7,1816949,0.002396
+79,AutoLiab 6 - Light & Medium,AutoLiab,6 - Light & Medium,8,3802843,0.000884
+79,AutoLiab 6 - Light & Medium,AutoLiab,6 - Light & Medium,9,8408842,0.000328
+79,AutoLiab 6 - Light & Medium,AutoLiab,6 - Light & Medium,10,22057854,0.000113
+79,AutoLiab 6 - Light & Medium,AutoLiab,6 - Light & Medium,11,99510685,0.000026
+79,AutoLiab 6 - Light & Medium,AutoLiab,6 - Light & Medium,12,100000000,0
+80,AutoLiab 6 - Heavy,AutoLiab,6 - Heavy,1,2751,0.693287
+80,AutoLiab 6 - Heavy,AutoLiab,6 - Heavy,2,13950,0.17635
+80,AutoLiab 6 - Heavy,AutoLiab,6 - Heavy,3,35363,0.062841
+80,AutoLiab 6 - Heavy,AutoLiab,6 - Heavy,4,309926,0.055307
+80,AutoLiab 6 - Heavy,AutoLiab,6 - Heavy,5,1034593,0.009349
+80,AutoLiab 6 - Heavy,AutoLiab,6 - Heavy,6,2952000,0.002082
+80,AutoLiab 6 - Heavy,AutoLiab,6 - Heavy,7,7671822,0.000559
+80,AutoLiab 6 - Heavy,AutoLiab,6 - Heavy,8,21192502,0.000181
+80,AutoLiab 6 - Heavy,AutoLiab,6 - Heavy,9,100000000,0.000044
+80,AutoLiab 6 - Heavy,AutoLiab,6 - Heavy,10,100000000,0
+80,AutoLiab 6 - Heavy,AutoLiab,6 - Heavy,11,100000000,0
+80,AutoLiab 6 - Heavy,AutoLiab,6 - Heavy,12,100000000,0
+81,AutoLiab 6 - Extra Heavy,AutoLiab,6 - Extra Heavy,1,1852,0.093907
+81,AutoLiab 6 - Extra Heavy,AutoLiab,6 - Extra Heavy,2,3409,0.514613
+81,AutoLiab 6 - Extra Heavy,AutoLiab,6 - Extra Heavy,3,18292,0.253246
+81,AutoLiab 6 - Extra Heavy,AutoLiab,6 - Extra Heavy,4,84533,0.089657
+81,AutoLiab 6 - Extra Heavy,AutoLiab,6 - Extra Heavy,5,567029,0.039493
+81,AutoLiab 6 - Extra Heavy,AutoLiab,6 - Extra Heavy,6,1922406,0.006982
+81,AutoLiab 6 - Extra Heavy,AutoLiab,6 - Extra Heavy,7,5757150,0.001586
+81,AutoLiab 6 - Extra Heavy,AutoLiab,6 - Extra Heavy,8,17751814,0.00042
+81,AutoLiab 6 - Extra Heavy,AutoLiab,6 - Extra Heavy,9,66471678,0.000032
+81,AutoLiab 6 - Extra Heavy,AutoLiab,6 - Extra Heavy,10,100000000,0.000064
+81,AutoLiab 6 - Extra Heavy,AutoLiab,6 - Extra Heavy,11,100000000,0
+81,AutoLiab 6 - Extra Heavy,AutoLiab,6 - Extra Heavy,12,100000000,0
+82,AutoLiab 6 - All Other,AutoLiab,6 - All Other,1,1927,0.638602
+82,AutoLiab 6 - All Other,AutoLiab,6 - All Other,2,12104,0.239212
+82,AutoLiab 6 - All Other,AutoLiab,6 - All Other,3,66423,0.08397
+82,AutoLiab 6 - All Other,AutoLiab,6 - All Other,4,367362,0.03046
+82,AutoLiab 6 - All Other,AutoLiab,6 - All Other,5,1112516,0.005855
+82,AutoLiab 6 - All Other,AutoLiab,6 - All Other,6,3003510,0.00138
+82,AutoLiab 6 - All Other,AutoLiab,6 - All Other,7,7685730,0.00038
+82,AutoLiab 6 - All Other,AutoLiab,6 - All Other,8,21456616,0.000115
+82,AutoLiab 6 - All Other,AutoLiab,6 - All Other,9,100000000,0.000026
+82,AutoLiab 6 - All Other,AutoLiab,6 - All Other,10,100000000,0
+82,AutoLiab 6 - All Other,AutoLiab,6 - All Other,11,100000000,0
+82,AutoLiab 6 - All Other,AutoLiab,6 - All Other,12,100000000,0
+83,AutoLiab CA - Light & Medium,AutoLiab,CA - Light & Medium,1,3528,0.682009
+83,AutoLiab CA - Light & Medium,AutoLiab,CA - Light & Medium,2,15925,0.269942
+83,AutoLiab CA - Light & Medium,AutoLiab,CA - Light & Medium,3,76754,0.033787
+83,AutoLiab CA - Light & Medium,AutoLiab,CA - Light & Medium,4,498148,0.011537
+83,AutoLiab CA - Light & Medium,AutoLiab,CA - Light & Medium,5,1500697,0.002101
+83,AutoLiab CA - Light & Medium,AutoLiab,CA - Light & Medium,6,4044924,0.000457
+83,AutoLiab CA - Light & Medium,AutoLiab,CA - Light & Medium,7,9669868,0.000116
+83,AutoLiab CA - Light & Medium,AutoLiab,CA - Light & Medium,8,23630185,0.000041
+83,AutoLiab CA - Light & Medium,AutoLiab,CA - Light & Medium,9,100000000,0.00001
+83,AutoLiab CA - Light & Medium,AutoLiab,CA - Light & Medium,10,100000000,0
+83,AutoLiab CA - Light & Medium,AutoLiab,CA - Light & Medium,11,100000000,0
+83,AutoLiab CA - Light & Medium,AutoLiab,CA - Light & Medium,12,100000000,0
+84,AutoLiab CA - Heavy,AutoLiab,CA - Heavy,1,4098,0.736141
+84,AutoLiab CA - Heavy,AutoLiab,CA - Heavy,2,18554,0.223029
+84,AutoLiab CA - Heavy,AutoLiab,CA - Heavy,3,97947,0.025561
+84,AutoLiab CA - Heavy,AutoLiab,CA - Heavy,4,559567,0.012107
+84,AutoLiab CA - Heavy,AutoLiab,CA - Heavy,5,1709755,0.002378
+84,AutoLiab CA - Heavy,AutoLiab,CA - Heavy,6,4655952,0.000558
+84,AutoLiab CA - Heavy,AutoLiab,CA - Heavy,7,10766375,0.000138
+84,AutoLiab CA - Heavy,AutoLiab,CA - Heavy,8,23298410,0.000067
+84,AutoLiab CA - Heavy,AutoLiab,CA - Heavy,9,100000000,0.000021
+84,AutoLiab CA - Heavy,AutoLiab,CA - Heavy,10,100000000,0
+84,AutoLiab CA - Heavy,AutoLiab,CA - Heavy,11,100000000,0
+84,AutoLiab CA - Heavy,AutoLiab,CA - Heavy,12,100000000,0
+85,AutoLiab CA - Extra Heavy,AutoLiab,CA - Extra Heavy,1,5416,0.757429
+85,AutoLiab CA - Extra Heavy,AutoLiab,CA - Extra Heavy,2,27959,0.202929
+85,AutoLiab CA - Extra Heavy,AutoLiab,CA - Extra Heavy,3,412793,0.032243
+85,AutoLiab CA - Extra Heavy,AutoLiab,CA - Extra Heavy,4,1384145,0.005711
+85,AutoLiab CA - Extra Heavy,AutoLiab,CA - Extra Heavy,5,4040166,0.001216
+85,AutoLiab CA - Extra Heavy,AutoLiab,CA - Extra Heavy,6,9742206,0.0003
+85,AutoLiab CA - Extra Heavy,AutoLiab,CA - Extra Heavy,7,22566540,0.000132
+85,AutoLiab CA - Extra Heavy,AutoLiab,CA - Extra Heavy,8,100000000,0.00004
+85,AutoLiab CA - Extra Heavy,AutoLiab,CA - Extra Heavy,9,100000000,0
+85,AutoLiab CA - Extra Heavy,AutoLiab,CA - Extra Heavy,10,100000000,0
+85,AutoLiab CA - Extra Heavy,AutoLiab,CA - Extra Heavy,11,100000000,0
+85,AutoLiab CA - Extra Heavy,AutoLiab,CA - Extra Heavy,12,100000000,0
+86,AutoLiab CA - All Other,AutoLiab,CA - All Other,1,3221,0.639166
+86,AutoLiab CA - All Other,AutoLiab,CA - All Other,2,14735,0.292423
+86,AutoLiab CA - All Other,AutoLiab,CA - All Other,3,69821,0.049554
+86,AutoLiab CA - All Other,AutoLiab,CA - All Other,4,510715,0.015784
+86,AutoLiab CA - All Other,AutoLiab,CA - All Other,5,1672603,0.002446
+86,AutoLiab CA - All Other,AutoLiab,CA - All Other,6,4847067,0.000483
+86,AutoLiab CA - All Other,AutoLiab,CA - All Other,7,12925767,0.000104
+86,AutoLiab CA - All Other,AutoLiab,CA - All Other,8,28878518,0.000028
+86,AutoLiab CA - All Other,AutoLiab,CA - All Other,9,100000000,0.000012
+86,AutoLiab CA - All Other,AutoLiab,CA - All Other,10,100000000,0
+86,AutoLiab CA - All Other,AutoLiab,CA - All Other,11,100000000,0
+86,AutoLiab CA - All Other,AutoLiab,CA - All Other,12,100000000,0
+87,AutoLiab NY - Light & Medium,AutoLiab,NY - Light & Medium,1,3191,0.802083
+87,AutoLiab NY - Light & Medium,AutoLiab,NY - Light & Medium,2,14989,0.121788
+87,AutoLiab NY - Light & Medium,AutoLiab,NY - Light & Medium,3,55015,0.053317
+87,AutoLiab NY - Light & Medium,AutoLiab,NY - Light & Medium,4,297917,0.018353
+87,AutoLiab NY - Light & Medium,AutoLiab,NY - Light & Medium,5,918174,0.003384
+87,AutoLiab NY - Light & Medium,AutoLiab,NY - Light & Medium,6,2542758,0.000794
+87,AutoLiab NY - Light & Medium,AutoLiab,NY - Light & Medium,7,6754467,0.000208
+87,AutoLiab NY - Light & Medium,AutoLiab,NY - Light & Medium,8,19431757,0.00006
+87,AutoLiab NY - Light & Medium,AutoLiab,NY - Light & Medium,9,92375604,0.000013
+87,AutoLiab NY - Light & Medium,AutoLiab,NY - Light & Medium,10,100000000,0
+87,AutoLiab NY - Light & Medium,AutoLiab,NY - Light & Medium,11,100000000,0
+87,AutoLiab NY - Light & Medium,AutoLiab,NY - Light & Medium,12,100000000,0
+88,AutoLiab NY - Heavy,AutoLiab,NY - Heavy,1,3614,0.818319
+88,AutoLiab NY - Heavy,AutoLiab,NY - Heavy,2,25796,0.13672
+88,AutoLiab NY - Heavy,AutoLiab,NY - Heavy,3,151419,0.036685
+88,AutoLiab NY - Heavy,AutoLiab,NY - Heavy,4,755929,0.006725
+88,AutoLiab NY - Heavy,AutoLiab,NY - Heavy,5,2548332,0.001193
+88,AutoLiab NY - Heavy,AutoLiab,NY - Heavy,6,7387376,0.000262
+88,AutoLiab NY - Heavy,AutoLiab,NY - Heavy,7,21088379,0.000077
+88,AutoLiab NY - Heavy,AutoLiab,NY - Heavy,8,100000000,0.000019
+88,AutoLiab NY - Heavy,AutoLiab,NY - Heavy,9,100000000,0
+88,AutoLiab NY - Heavy,AutoLiab,NY - Heavy,10,100000000,0
+88,AutoLiab NY - Heavy,AutoLiab,NY - Heavy,11,100000000,0
+88,AutoLiab NY - Heavy,AutoLiab,NY - Heavy,12,100000000,0
+89,AutoLiab NY - Extra Heavy,AutoLiab,NY - Extra Heavy,1,3924,0.76972
+89,AutoLiab NY - Extra Heavy,AutoLiab,NY - Extra Heavy,2,14972,0.109916
+89,AutoLiab NY - Extra Heavy,AutoLiab,NY - Extra Heavy,3,57449,0.089828
+89,AutoLiab NY - Extra Heavy,AutoLiab,NY - Extra Heavy,4,413270,0.024497
+89,AutoLiab NY - Extra Heavy,AutoLiab,NY - Extra Heavy,5,1347498,0.004588
+89,AutoLiab NY - Extra Heavy,AutoLiab,NY - Extra Heavy,6,3809039,0.001019
+89,AutoLiab NY - Extra Heavy,AutoLiab,NY - Extra Heavy,7,8965967,0.000278
+89,AutoLiab NY - Extra Heavy,AutoLiab,NY - Extra Heavy,8,21791327,0.00012
+89,AutoLiab NY - Extra Heavy,AutoLiab,NY - Extra Heavy,9,100000000,0.000034
+89,AutoLiab NY - Extra Heavy,AutoLiab,NY - Extra Heavy,10,100000000,0
+89,AutoLiab NY - Extra Heavy,AutoLiab,NY - Extra Heavy,11,100000000,0
+89,AutoLiab NY - Extra Heavy,AutoLiab,NY - Extra Heavy,12,100000000,0
+90,AutoLiab NY - All Other,AutoLiab,NY - All Other,1,2869,0.77681
+90,AutoLiab NY - All Other,AutoLiab,NY - All Other,2,15694,0.146859
+90,AutoLiab NY - All Other,AutoLiab,NY - All Other,3,51683,0.036862
+90,AutoLiab NY - All Other,AutoLiab,NY - All Other,4,115342,0.021598
+90,AutoLiab NY - All Other,AutoLiab,NY - All Other,5,334699,0.013038
+90,AutoLiab NY - All Other,AutoLiab,NY - All Other,6,865523,0.00333
+90,AutoLiab NY - All Other,AutoLiab,NY - All Other,7,2023151,0.000956
+90,AutoLiab NY - All Other,AutoLiab,NY - All Other,8,4078470,0.000309
+90,AutoLiab NY - All Other,AutoLiab,NY - All Other,9,8111941,0.000157
+90,AutoLiab NY - All Other,AutoLiab,NY - All Other,10,21102806,0.000065
+90,AutoLiab NY - All Other,AutoLiab,NY - All Other,11,100000000,0.000016
+90,AutoLiab NY - All Other,AutoLiab,NY - All Other,12,100000000,0
+91,AutoPD All,AutoPD,All,1,3.233083996,0.010308914
+91,AutoPD All,AutoPD,All,2,330.270238,0.052913533
+91,AutoPD All,AutoPD,All,3,1788.098591,0.328306708
+91,AutoPD All,AutoPD,All,4,6046.540941,0.49366017
+91,AutoPD All,AutoPD,All,5,35714.4634,0.114810675
+91,AutoPD All,AutoPD,All,6,100000000,0
+91,AutoPD All,AutoPD,All,7,100000000,0
+91,AutoPD All,AutoPD,All,8,100000000,0
+91,AutoPD All,AutoPD,All,9,100000000,0
+91,AutoPD All,AutoPD,All,10,100000000,0
+91,AutoPD All,AutoPD,All,11,100000000,0
+91,AutoPD All,AutoPD,All,12,100000000,0

@@ -1,0 +1,92 @@
+Index,Table Name,Coverage,Table
+1,PremOps A - 1,PremOps,A - 1
+2,PremOps A - 2,PremOps,A - 2
+3,PremOps A - 3,PremOps,A - 3
+4,PremOps B - 1,PremOps,B - 1
+5,PremOps B - 2,PremOps,B - 2
+6,PremOps B - 3,PremOps,B - 3
+7,PremOps C - 1,PremOps,C - 1
+8,PremOps C - 2,PremOps,C - 2
+9,PremOps C - 3,PremOps,C - 3
+10,PremOps CA - 1,PremOps,CA - 1
+11,PremOps CA - 2,PremOps,CA - 2
+12,PremOps CA - 3,PremOps,CA - 3
+13,PremOps FL - 1,PremOps,FL - 1
+14,PremOps FL - 2,PremOps,FL - 2
+15,PremOps FL - 3,PremOps,FL - 3
+16,PremOps IL - 1,PremOps,IL - 1
+17,PremOps IL - 2,PremOps,IL - 2
+18,PremOps IL - 3,PremOps,IL - 3
+19,PremOps IN - 1,PremOps,IN - 1
+20,PremOps IN - 2,PremOps,IN - 2
+21,PremOps IN - 3,PremOps,IN - 3
+22,PremOps MA - 1,PremOps,MA - 1
+23,PremOps MA - 2,PremOps,MA - 2
+24,PremOps MA - 3,PremOps,MA - 3
+25,PremOps MI - 1,PremOps,MI - 1
+26,PremOps MI - 2,PremOps,MI - 2
+27,PremOps MI - 3,PremOps,MI - 3
+28,PremOps NJ - 1,PremOps,NJ - 1
+29,PremOps NJ - 2,PremOps,NJ - 2
+30,PremOps NJ - 3,PremOps,NJ - 3
+31,PremOps NY - 1,PremOps,NY - 1
+32,PremOps NY - 2,PremOps,NY - 2
+33,PremOps NY - 3,PremOps,NY - 3
+34,PremOps NC - 1,PremOps,NC - 1
+35,PremOps NC - 2,PremOps,NC - 2
+36,PremOps NC - 3,PremOps,NC - 3
+37,PremOps OH - 1,PremOps,OH - 1
+38,PremOps OH - 2,PremOps,OH - 2
+39,PremOps OH - 3,PremOps,OH - 3
+40,PremOps PA - 1,PremOps,PA - 1
+41,PremOps PA - 2,PremOps,PA - 2
+42,PremOps PA - 3,PremOps,PA - 3
+43,PremOps TX - 1,PremOps,TX - 1
+44,PremOps TX - 2,PremOps,TX - 2
+45,PremOps TX - 3,PremOps,TX - 3
+46,PremOps VA - 1,PremOps,VA - 1
+47,PremOps VA - 2,PremOps,VA - 2
+48,PremOps VA - 3,PremOps,VA - 3
+49,PremOps WI - 1,PremOps,WI - 1
+50,PremOps WI - 2,PremOps,WI - 2
+51,PremOps WI - 3,PremOps,WI - 3
+52,PremOps MULTI - 1,PremOps,MULTI - 1
+53,PremOps MULTI - 2,PremOps,MULTI - 2
+54,PremOps MULTI - 3,PremOps,MULTI - 3
+55,Products A,Products,A
+56,Products B,Products,B
+57,Products C,Products,C
+58,AutoLiab Zone Rated,AutoLiab,Zone Rated
+59,AutoLiab 1 - Light & Medium,AutoLiab,1 - Light & Medium
+60,AutoLiab 1 - Heavy,AutoLiab,1 - Heavy
+61,AutoLiab 1 - Extra Heavy,AutoLiab,1 - Extra Heavy
+62,AutoLiab 1 - All Other,AutoLiab,1 - All Other
+63,AutoLiab 2 - Light & Medium,AutoLiab,2 - Light & Medium
+64,AutoLiab 2 - Heavy,AutoLiab,2 - Heavy
+65,AutoLiab 2 - Extra Heavy,AutoLiab,2 - Extra Heavy
+66,AutoLiab 2 - All Other,AutoLiab,2 - All Other
+67,AutoLiab 3 - Light & Medium,AutoLiab,3 - Light & Medium
+68,AutoLiab 3 - Heavy,AutoLiab,3 - Heavy
+69,AutoLiab 3 - Extra Heavy,AutoLiab,3 - Extra Heavy
+70,AutoLiab 3 - All Other,AutoLiab,3 - All Other
+71,AutoLiab 4 - Light & Medium,AutoLiab,4 - Light & Medium
+72,AutoLiab 4 - Heavy,AutoLiab,4 - Heavy
+73,AutoLiab 4 - Extra Heavy,AutoLiab,4 - Extra Heavy
+74,AutoLiab 4 - All Other,AutoLiab,4 - All Other
+75,AutoLiab 5 - Light & Medium,AutoLiab,5 - Light & Medium
+76,AutoLiab 5 - Heavy,AutoLiab,5 - Heavy
+77,AutoLiab 5 - Extra Heavy,AutoLiab,5 - Extra Heavy
+78,AutoLiab 5 - All Other,AutoLiab,5 - All Other
+79,AutoLiab 6 - Light & Medium,AutoLiab,6 - Light & Medium
+80,AutoLiab 6 - Heavy,AutoLiab,6 - Heavy
+81,AutoLiab 6 - Extra Heavy,AutoLiab,6 - Extra Heavy
+82,AutoLiab 6 - All Other,AutoLiab,6 - All Other
+83,AutoLiab CA - Light & Medium,AutoLiab,CA - Light & Medium
+84,AutoLiab CA - Heavy,AutoLiab,CA - Heavy
+85,AutoLiab CA - Extra Heavy,AutoLiab,CA - Extra Heavy
+86,AutoLiab CA - All Other,AutoLiab,CA - All Other
+87,AutoLiab NY - Light & Medium,AutoLiab,NY - Light & Medium
+88,AutoLiab NY - Heavy,AutoLiab,NY - Heavy
+89,AutoLiab NY - Extra Heavy,AutoLiab,NY - Extra Heavy
+90,AutoLiab NY - All Other,AutoLiab,NY - All Other
+91,AutoPD All,AutoPD,All

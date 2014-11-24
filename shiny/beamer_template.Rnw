@@ -1,0 +1,147 @@
+<<RSource, echo=FALSE, results=hide>>=
+## place any required libraries / R source files here
+source("z_beamer_script.R")
+
+#load mixed exponential parameter tables
+tables <- read.csv("MixExpTables.csv", header = TRUE)
+weights <-read.csv("MixExpWeights.csv", header = FALSE, stringsAsFactors = TRUE)
+means <- read.csv("MixExpMeans.csv", header = FALSE, stringsAsFactors = TRUE)
+
+#load libraries
+source("CollectiveRisk.R")
+library(distrEx)
+library(xtable)
+@
+
+<<RHeader, echo=FALSE, results=tex>>=
+#latex header for Zurich presentation
+#for date of "today" use "\\today"
+#type options are "confidential, highlyconfidential, internal, unclassified"
+zbeamheader(
+              title = "Collective Risk Model",
+              subtitle = "using mixed exponential parameters and FFT",
+              author = "Dave Carlson",
+              date = "\\today",
+              type = "internal",
+              addpackage = ""
+             )
+@
+
+%an overview slide will be automatically added before every subsection
+%if a slide to to tall to fit on slide use the frame option shrink
+%if verbatim R code is used (e.g. 1:10) use frame option [fragile]
+
+\section{Assumptions}
+\subsection{discretization}
+
+\begin{frame}[fragile]
+
+\frametitle{discretization assumptions}
+<<results=hide, echo=FALSE>>=
+ n <- 2^12               #length
+ h <- 750                #step-size
+@
+
+For this example we will model the aggregate loss using an array of length \Sexpr{n} with losses evaluated at "step-sizes" of \Sexpr{h}.
+
+\end{frame}
+
+\subsection{severity assumptions}
+
+\begin{frame}[fragile]
+\frametitle{severity assumptions}
+
+<<results=hide,echo=FALSE>>=
+#severity (see tables dataframe for options)
+idx <- 56                           #mixed exponential table index
+w <- as.vector(weights[1:12,idx])   #mix. exp. weights
+m <- as.vector(means[1:12,idx])     #mix. exp. means
+maxloss <- 1000000                  #maximum per occurrence loss
+maxloss.str <- formatC(maxloss,format="d", big.mark=",", width = 0)
+@
+
+ISO distribution assumed : \Sexpr{tables$Table.Name[idx]} \par
+maximum per occurrence loss : \Sexpr{maxloss.str}.
+
+<<echo=false,results=tex>>=
+ sev.df <- data.frame(weight=w,mean=prettyNum(m, big.mark=","))
+ sev.xtable <- xtable(sev.df, align=c('r','r','r'), caption="mixed exponential parameters")
+ print(sev.xtable)
+@
+
+\end{frame}
+
+\subsection{frequency assumptions}
+
+\begin{frame}[fragile]
+\frametitle{frequency assumptions}
+
+<<results=hide,echo=FALSE>>=
+ count <- 10
+ c <- 0.15
+@
+
+Expected Claim Count : \Sexpr{count} \par
+Expected Contagion : \Sexpr{c}
+
+\end{frame}
+
+\section{Overview}
+\subsection{method}
+
+\begin{frame}[fragile]
+\frametitle{method}
+<<echo=FALSE,results=hide>>=
+ #calculate aggregate probabilities (via FFT)
+ X <- pdf(w,m,n,h,maxloss)
+ F_X <- fft(X)
+ F_S <- HMpgf(F_X,count,c)
+ S <- ifft(F_S)
+@
+
+Collective Risk Model
+ \begin{itemize}
+  \item discretize $X$ the severity distribution.
+  \item Calculate the ${\psi}_X(t)$ the characteristic function of $X$.
+  \item Apply the $P_N(t)$ to ${\psi}_X(t)$ to get ${\psi}_S(t)$
+  \item get the aggregate distribution by ${\psi}^{-1}({\psi}_S(t))$
+ \end{itemize} 
+\end{frame}
+
+\subsection{result}
+
+\begin{frame}[fragile,shrink]
+\frametitle{result}
+
+<<fig=TRUE, echo=FALSE>>=
+loss <- 0:(n-1) * h
+
+#calculate insurance charges (entry ratios 0-10 by 0.01 increments)
+distS <- DiscreteDistribution(prob = S, supp = 0:(n-1)*h)
+E_S <- E(distS)
+ER <- (0:1000)/100
+charge <- sapply(ER, function(x){1-E(distS,upp=E_S*x)/E_S})
+
+aggloss_graph <- function()
+{  
+ xpos1 <- seq(0,h*n,by=h*n/4)
+ plot(loss,S,type = "h",main = "Aggregate Loss Distribution",ylab="Probability", xlab="Loss (in $m)",col = "dark blue", xaxt="n")
+ axis(1, at=xpos1, labels=sprintf("%.2f", xpos1/1000000)) 
+}
+
+inscharge_graph <- function()
+{
+ xpos2 <- seq(0,10,by=1)
+ plot(ER,charge, type="l",xaxt = "n", col = "red", lwd = 2, main = "Insurance Charges", xlab = "Entry Ratios")
+ axis(1, at=xpos2, labels=sprintf("%.1f",xpos2))
+}
+
+#plot aggregate loss distribution & insurance charges
+attach(mtcars)
+par(mfrow=c(2,1)) 
+aggloss_graph()
+inscharge_graph()
+@
+
+\end{frame}
+\end{document}
